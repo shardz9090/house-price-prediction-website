@@ -1,0 +1,1900 @@
+Address,Land,Road,Price,Bedroom,Bathroom,Face,Floor,City
+Aakasedhara,1711.25,12,31500000,6,5,South West,2.5,Kathmandu
+Aarubari,1369,12,35000000,5,3,East,2.5,Kathmandu
+Anamnagar,1129.425,11,42500000,6,5,South West,3.5,Kathmandu
+Aryal-Gaun,1369,13,27500000,3,5,South,3,Kathmandu
+Attarkhel,1095.2,13,30000000,8,3,East,3,Kathmandu
+Badeli,1711.25,13,30000000,4,3,West,2.5,Kathmandu
+Bafal,1197.875,13,22500000,5,3,East,2.5,Kathmandu
+Bafal,1026.75,10,23000000,6,2,South,2,Kathmandu
+Bafal,752.95,12,23500000,6,2,North,2.5,Kathmandu
+Bafal,1026.75,12,24500000,4,3,east,2.5,Kathmandu
+Bafal,1540.125,13,24500000,7,3,North,2.5,Kathmandu
+Bafal,1437.45,13,27500000,4,4,South,2.5,Kathmandu
+Bafal,1369,13,28500000,5,3,South West,2,Kathmandu
+Bafal,1369,10,31000000,7,3,South,3,Kathmandu
+Bafal,1129.425,15,31000000,5,3,North East,2.5,Kathmandu
+Bafal,1369,16,31000000,6,3,South West,2.5,Kathmandu
+Bafal,1369,12,36500000,5,4,South,2.5,Kathmandu
+Bafal,1711.25,13,36500000,5,4,South,3,Kathmandu
+Bafal,1095.2,13,37000000,4,3,North East,2.5,Kathmandu
+Bafal,1095.2,14,37000000,4,3,North East,2.5,Kathmandu
+Bafal,1369,13,37500000,7,4,East,2,Kathmandu
+Bafal,2395.75,14,47500000,6,3,West,2.5,Kathmandu
+Bafal,2887.73,12,58000000,6,5,East,2.5,Kathmandu
+Bafal,2840.675,13,60000000,4,5,East,3.5,Kathmandu
+Bafal,3148.7,13,70000000,3,4,East,2.5,Kathmandu
+Bagdol,1711.25,15,29000000,4,4,South,2.5,Lalitpur
+Bagdol,1813.925,20,54000000,7,4,South East,2.5,Lalitpur
+Bagdol,1262.046875,20,19500000,4,4,West,2,Lalitpur
+Balaju,1711.25,12,17500000,4,2,East,2,Kathmandu
+Balaju,1240.65625,13,14200000,5,2,North West,2,Kathmandu
+Balaju,2053.5,14,25000000,3,3,South,3,Kathmandu
+Balaju,1540.125,13,26000000,4,3,East,2.5,Kathmandu
+Balaju,1796.8125,13,26000000,4,3,East,2,Kathmandu
+Balaju,3422.5,14,48500000,4,4,East,3,Kathmandu
+Balaju,3422.5,16,55000000,7,2,South,2.5,Kathmandu
+Balambu,727.28,10,11000000,4,3,East,2,Kathmandu
+Balambu,855.625,10,14500000,5,3,South East,2.5,Kathmandu
+Balambu,1026.75,16,17000000,6,3,East,3,Kathmandu
+Balambu,1369,13,29000000,5,4,South East,2.5,Kathmandu
+Balkhu,1026.75,16,22300000,3,3,North,2.5,Kathmandu
+Balkhu,1026.75,16,22350000,3,3,North,2.5,Kathmandu
+Balkhu,1796.8125,20,23000000,3,2,East,3,Kathmandu
+Balkhu,787.175,20,24900000,3,3,North,2.5,Lalitpur
+Balkhu,2053.5,12.5,42500000,8,3,South West,3,Kathmandu
+Balkhu,2652.4375,16,45000000,4,3,East,2.5,Kathmandu
+Balkhu,3080.25,10,49500000,7,7,South,3,Kathmandu
+Balkhu,2738,20,72000000,7,5,West,2.5,Kathmandu
+Balkhu,2738,20,72500000,6,5,South,3,Kathmandu
+Balkot,1369,13,14500000,5,3,West,2.5,Bhaktapur
+Balkot,1026.75,10,19000000,3,4,North,3,Bhaktapur
+Balkot,1711.25,13,24000000,6,3,East,2.5,Bhaktapur
+Balkot,1155.09375,13,27500000,4,4,West,2.5,Bhaktapur
+Balkot,1129.425,13,28000000,5,5,West,3,Bhaktapur
+Balkot,1796.8125,20,29000000,3,3,North,2,Bhaktapur
+Balkot,2053.5,10,42500000,4,4,South,3.5,Bhaktapur
+Balkot,3422.5,13,75000000,6,5,East,3.5,Bhaktapur
+Balkumari,1026.75,13,22500000,7,1,West,3.5,Lalitpur
+Balkumari,1471.675,13,47000000,5,4,South,3,Lalitpur
+Balkumari,3508.0625,20,47000000,4,4,South,2,Lalitpur
+Balkumari,3080.25,13,60000000,6,6,East,3.5,Lalitpur
+Baluwakhani,1026.75,12,21500000,4,3,South East,3,Kathmandu
+Baluwakhani,1095.2,10,27500000,6,4,West,2.5,Kathmandu
+Baluwakhani,1745.475,13,34500000,7,5,East,2.5,Kathmandu
+Baluwatar,770.0625,15,23000000,4,2,East,3,Kathmandu
+Baluwatar,1711.25,10,39000000,7,3,North,2.5,Kathmandu
+Baluwatar,1882.375,15,39500000,3,3,East,2,Kathmandu
+Baluwatar,2053.5,15,42500000,6,6,South East,3,Kathmandu
+Baluwatar,2053.5,12,51500000,6,3,North East,3,Kathmandu
+Baluwatar,2738,10,55000000,4,3,South,2.5,Kathmandu
+Baluwatar,1796.8125,12,55000000,4,5,South East,3,Kathmandu
+Baluwatar,1745.475,12,55000000,4,5,South east,2.5,Kathmandu
+Baluwatar,1745.475,13,55000000,6,5,North east,2.5,Kathmandu
+Baluwatar,1711.25,13,55000000,4,4,South East,2.5,Kathmandu
+Baluwatar,2738,13,56000000,4,4,North,3,Kathmandu
+Baluwatar,2053.5,13,60000000,5,5,South,2.5,Kathmandu
+Baluwatar,2053.5,13,60000000,5,5,North East,3,Kathmandu
+Baluwatar,2053.5,14,61000000,5,6,North,3,Kathmandu
+Baluwatar,2224.625,20,65000000,5,5,West,3,Kathmandu
+Baluwatar,2806.45,14,68000000,6,3,East,2.5,Kathmandu
+Baluwatar,2053.5,12.5,71500000,8,7,East,3.5,Kathmandu
+Baluwakhani,1440,12,27000000,3,3,East,2.5,Kathmandu
+Banasthali,1027,7.6,20000000,5,3,North,2.5,Kathmandu
+Banasthali,1026.75,15,22500000,4,3,East,2,Kathmandu
+Banasthali,1437.45,16,26000000,5,3,South,2.5,Kathmandu
+Banasthali,1369,13,27500000,5,5,South,2.5,Kathmandu
+Banasthali,1026.75,10,29500000,4,3,East,2.5,Kathmandu
+Banasthali,1369,12,31000000,4,4,South,2.5,Kathmandu
+Banasthali,1369,13,34000000,6,5,East,3.5,Kathmandu
+Banasthali,1369,13,34000000,6,4,East,3,Kathmandu
+Banasthali,787.175,15,35000000,6,4,South West,3.5,Kathmandu
+Banasthali,1967.9375,20,39500000,5,6,North,3,Kathmandu
+Banasthali,2806.45,12,42000000,8,4,South,2.5,Kathmandu
+Banasthali,1497.34,13,45000000,7,5,North,3,Kathmandu
+Banasthali,3508.0625,14,50000000,7,4,East,3,Kathmandu
+Banasthali,3422.5,12,70000000,5,5,South,2.5,Kathmandu
+Baneshwor,2806.45,20,7000000,6,3,North,2.5,Kathmandu
+Baneshwor,1026.75,20,38000000,6,4,South West,3.5,Kathmandu
+Baneshwor,1369,15,38700000,6,5,East,3,Kathmandu
+Baneshwor,2738,10,47500000,5,4,West,2.5,Kathmandu
+Baneshwor,2464.2,20,63500000,8,4,North east,2.5,Kathmandu
+Baniyatar,1112.3125,10,16500000,6,3,South,3,Kathmandu
+Baniyatar,983.96875,14,19000000,4,3,North,2.5,Kathmandu
+Baniyatar,1369,16,22000000,8,3,North West,3,Kathmandu
+Baniyatar,1129.425,13,23500000,7,5,East,3,Kathmandu
+Baniyatar,1411.78,14,23500000,5,4,South,2.5,Kathmandu
+Baniyatar,1197.875,12,23750000,6,5,North West,3,Kathmandu
+Baniyatar,1454.5625,15,24000000,6,6,North East,3,Kathmandu
+Baniyatar,1711.25,11,25000000,7,5,South,3,Kathmandu
+Baniyatar,1129.425,13,27000000,7,3,South West,2.5,Kathmandu
+Baniyatar,1711.25,10,28500000,6,3,South East,3.5,Kathmandu
+Baniyatar,1369,20,29000000,6,5,East,3,Kathmandu
+Baniyatar,1540.125,20,35000000,8,5,East,3,Kathmandu
+Bansbari,1390.39,10,29000000,6,4,West,2.5,Kathmandu
+Bansbari,2053.5,10,36000000,6,5,South east,3,Kathmandu
+Bansbari,2053.5,10,36000000,6,6,South East,3,Kathmandu
+Bansbari,2738,16,45000000,6,5,West,2.5,Kathmandu
+Bansbari,2738,16,45000000,6,5,North West,3,Kathmandu
+Bansbari,2738,20,45000000,6,4,East,2,Kathmandu
+Bansbari,2738,16,47500000,4,5,East,2,Kathmandu
+Bansbari,2395.75,13,50000000,4,4,South,2.5,Kathmandu
+Bansbari,1437.45,12,51000000,5,5,South,2.5,Kathmandu
+Bansbari,1471.675,12,52000000,4,5,South,2.5,Kathmandu
+Bansbari,2464.2,20,52000000,6,3,West,2.5,Kathmandu
+Bansbari,2121.95,13,55000000,6,5,South East,2.5,Kathmandu
+Bansbari,3148.7,13,62500000,4,3,South,2,Kathmandu
+Basbari,1711.25,13,28000000,2,4,South,3,Kathmandu
+Basundhara,941.1875,12,19500000,3,3,South East,3,Kathmandu
+Basundhara,1112.3125,14,22500000,5,5,East,3,Kathmandu
+Basundhara,1112.3125,16,22500000,4,3,East,2,Kathmandu
+Basundhara,1112.3125,15,23000000,4,3,South,2,Kathmandu
+BASUNDHARA,1369,13,25000000,6,4,South east,3.5,Kathmandu
+Basundhara,1369,14,25500000,7,4,East,3,Kathmandu
+Basundhara,1454.5625,16,29800000,5,5,East,3,Kathmandu
+Basundhara,1369,10,30000000,4,4,South,3,Kathmandu
+Basundhara,1711.25,13,31000000,5,3,South west,2.5,Kathmandu
+Basundhara,1882.375,15,32500000,6,3,South,2.5,Kathmandu
+Basundhara,2139.0625,12,35000000,2,1,East,2,Kathmandu
+Basundhara,1882.375,13,35000000,2,1,East,2.5,Kathmandu
+Basundhara,1711.25,15,35000000,6,7,East,3,Kathmandu
+Basundhara,1796.8125,15,36000000,4,6,South East,3.5,Kathmandu
+Basundhara,1711.25,15,36500000,4,3,East,2,Kathmandu
+Basundhara,1711.25,14,39000000,5,2,South,3,Kathmandu
+Basundhara,2395.75,14,39900000,5,6,East,3,Kathmandu
+Basundhara,2395.75,20,41000000,7,6,East,3,Kathmandu
+Basundhara,1437.45,16,42000000,6,5,South East,2.5,Kathmandu
+Basundhara,2738,15,45000000,6,6,South West,3,Kathmandu
+Basundhara,2738,20,45000000,6,6,South West,3,Kathmandu
+Basundhara,1967.9375,14,49000000,6,6,South,3,Kathmandu
+Basundhara,3422.5,15,60000000,7,7,South,3,Kathmandu
+Basundhara,2481.31,13,67000000,5,5,West,2.5,Kathmandu
+Basundhara,2429.975,13,67000000,3,3,West,2.5,Kathmandu
+Basundhara,2395.75,13,72500000,9,6,East,2.5,Kathmandu
+Battisputali,1540.125,15,43000000,6,6,South,3,Kathmandu
+Bauthali,1403.225,12,25000000,6,5,West,2.5,Kathmandu
+Besigaun,1369,12,30000000,6,3,East,3,Kathmandu
+Besigaun,1060.975,13,27000000,6,3,South East,2.5,Kathmandu
+Besigaun,1540.125,12,28500000,5,2,South,2.5,Kathmandu
+Bhaisepati,1711.25,16,45000000,4,5,South West,3,Kathmandu
+Bhaisepati,1796.8125,15,50000000,5,6,North East,2.5,Lalitpur
+Bhaisepati,1900,15,19000000,4,5,East,3,Lalitpur
+Bhaisepati,1026.75,12,21000000,5,5,South East,2.5,Lalitpur
+Bhaisepati,1219.265625,20,24500000,4,5,South,2.5,Lalitpur
+Bhaisepati,1369,13,25000000,6,4,North,3,Lalitpur
+Bhaisepati,1026.75,16,25000000,4,5,South East,3.5,Lalitpur
+Bhaisepati,1095.2,16,26500000,5,5,North West,2.5,Lalitpur
+Bhaisepati,1369,13,27500000,5,4,South,2.5,Lalitpur
+Bhaisepati,1369,13,27500000,3,4,West,2.5,Lalitpur
+Bhaisepati,1475.953125,20,27500000,5,3,East,2,Lalitpur
+Bhaisepati,1095.2,20,27500000,4,5,South,2.5,Lalitpur
+Bhaisepati,1471.675,16,28000000,4,4,East,2.5,Lalitpur
+Bhaisepati,1411.78,13,28500000,6,4,East,2.5,Lalitpur
+Bhaisepati,1647.078125,13,28500000,5,4,South East,3,Lalitpur
+Bhaisepati,1133.703125,13,28500000,4,4,East,2,Lalitpur
+Bhaisepati,1540.125,18,28500000,3,5,South West,3,Lalitpur
+Bhaisepati,1369,20,29500000,4,4,East,2.5,Lalitpur
+Bhaisepati,1095.2,20,29500000,6,5,South East,2.5,Lalitpur
+Bhaisepati,1026.75,12,30000000,5,4,West,2,Lalitpur
+Bhaisepati,1283.4375,13,30000000,4,3,West,3,Lalitpur
+Bhaisepati,1369,14,30000000,4,4,East,2.5,Lalitpur
+Bhaisepati,1129.425,15,31000000,5,4,South West,2.5,Lalitpur
+Bhaisepati,1369,18,31000000,4,5,South east,2.5,Lalitpur
+Bhaisepati,1369,18,31000000,4,3,South East,3,Lalitpur
+Bhaisepati,1625.6875,12,31500000,4,4,South,3,Lalitpur
+Bhaisepati,1129.425,16.5,32000000,4,4,North East,2.5,Lalitpur
+Bhaisepati,1129.425,13,32500000,4,4,South East,2.5,Lalitpur
+Bhaisepati,1129.425,13,32500000,4,4,South West,2.5,Lalitpur
+Bhaisepati,1369,20,32500000,4,5,West,3,Lalitpur
+Bhaisepati,1711.25,13,33500000,5,3,East,2.5,Lalitpur
+Bhaisepati,1095.2,16,35000000,3,3,North,2,Lalitpur
+Bhaisepati,1411.78,20,35000000,5,4,South east,3,Lalitpur
+Bhaisepati,1197.875,20,35000000,4,4,East,3,Lalitpur
+Bhaisepati,1711.25,20,36000000,7,7,South West,2.5,Lalitpur
+Bhaisepati,1711.25,16,37000000,4,4,East,2.5,Lalitpur
+Bhaisepati,1369,16,37000000,6,5,North West,2.5,Lalitpur
+Bhaisepati,2224.625,13,37500000,4,4,North West,2.5,Lalitpur
+Bhaisepati,1369,16,37500000,6,6,North West,2.5,Lalitpur
+Bhaisepati,1540.125,18,37500000,3,4,South,3,Lalitpur
+Bhaisepati,1403.225,10,38000000,4,3,South East,2.5,Lalitpur
+Bhaisepati,1403.225,12,38000000,4,1,North East,2.5,Lalitpur
+Bhaisepati,1129.425,13,38000000,4,4,East,3,Lalitpur
+Bhaisepati,1197.875,13,38000000,4,4,East,3,Lalitpur
+Bhaisepati,1745.475,15,38000000,4,4,South East,2.5,Lalitpur
+Bhaisepati,1779.7,18,38000000,5,5,North East,2.5,Lalitpur
+Bhaisepati,1437.45,13.5,38500000,3,4,South,2,Lalitpur
+Bhaisepati,1060.975,16,38500000,4,4,East,2.5,Lalitpur
+Bhaisepati,2909.125,16,39077000,4,4,South,3,Lalitpur
+Bhaisepati,1711.25,15,39900000,4,4,East,2.5,Lalitpur
+Bhaisepati,1369,17,40000000,3,3,North,2.5,Lalitpur
+Bhaisepati,1437.45,20,40000000,6,4,South East,2.5,Lalitpur
+Bhaisepati,1711.25,20,40000000,5,4,West,2.5,Lalitpur
+Bhaisepati,1369,13,41000000,5,5,South West,2,Lalitpur
+Bhaisepati,1129.425,20,41000000,4,4,North,2.5,Lalitpur
+Bhaisepati,1711.25,20,42500000,7,3,South,3,Lalitpur
+Bhaisepati,1711.25,13,44000000,1,1,South east,2.5,Lalitpur
+Bhaisepati,1129.425,20,44000000,4,4,North,2.5,Lalitpur
+Bhaisepati,2121.95,17,44500000,3,5,North West,2.5,Lalitpur
+Bhaisepati,1437.45,13,45000000,5,4,South East,2.5,Lalitpur
+Bhaisepati,3125,14,45000000,5,5,West,2.5,Lalitpur
+Bhaisepati,1711.25,16,45000000,4,4,South,2,Lalitpur
+Bhaisepati,1711.25,18,45000000,5,5,North East,2.5,Lalitpur
+Bhaisepati,1437.45,20,45000000,4,5,South East,2.5,Lalitpur
+Bhaisepati,1369,13,46500000,4,4,East,3,Lalitpur
+Bhaisepati,1369,14,46500000,4,4,South East,2.5,Lalitpur
+Bhaisepati,1437.45,13,47500000,5,4,South East,2.5,Lalitpur
+Bhaisepati,1369,13,49500000,4,4,South East,2.5,Lalitpur
+Bhaisepati,1813.925,16,49500000,7,8,North East,3.5,Lalitpur
+Bhaisepati,2053.5,13,50000000,4,5,South,2.5,Lalitpur
+Bhaisepati,1711.25,13,50000000,4,3,East,2.5,Lalitpur
+Bhaisepati,3422.5,16,50000000,5,3,East,2.5,Lalitpur
+Bhaisepati,1711.25,20,51000000,5,4,West,2.5,Lalitpur
+Bhaisepati,1882.375,13,53000000,4,4,South,2,Lalitpur
+Bhaisepati,1437.45,13.5,55000000,3,4,South,2,Lalitpur
+Bhaisepati,1711.25,16,55000000,4,5,South West,2.5,Lalitpur
+Bhaisepati,1779.7,16,55000000,5,4,South East,2.5,Lalitpur
+Bhaisepati,1711.25,20,55000000,4,5,South West,2.5,Lalitpur
+Bhaisepati,2053.5,16.5,59500000,5,5,South West,2.5,Lalitpur
+Bhaisepati,2738,12,60000000,6,4,North,2.5,Lalitpur
+Bhaisepati,2121.95,13,62500000,5,6,South West,2.5,Lalitpur
+Bhaisepati,1813.925,16,62500000,3,3,South West,2.5,Lalitpur
+Bhaisepati,2121.95,20,69500000,6,3,South east,2.5,Lalitpur
+Bhaisepati,3422.5,13,70000000,5,5,South West,3,Lalitpur
+Bhaisepati,2053.5,13,70000000,4,5,West,3.5,Lalitpur
+Bhaisepati,2121.95,20,75000000,6,5,South East,2.5,Lalitpur
+Bhaisepati,2053.5,13,78000000,4,5,North East,2.5,Lalitpur
+Bhaisipati,1796.81,14,33500000,5,4,North East,2.5,Lalitpur
+Bhaktapur,1095.2,14,14000000,3,2,West,2,Bhaktapur
+Bhaktapur,1369,10,17000000,4,2,East,2,Bhaktapur
+Bhaktapur,1026.75,20,20000000,4,3,South East,3,Bhaktapur
+Bhaktapur,2053.5,20,21500000,9,1,West,3,Bhaktapur
+Bhaktapur,2395.75,20,32500000,4,4,South,2,Bhaktapur
+Bhangal,1197.875,13,16500000,5,4,South west,2.5,Kathmandu
+Bhangal,1454.5625,13,16500000,5,4,South West,3,Kathmandu
+Bhangal,1454.5625,14,17900000,5,5,East,3,Kathmandu
+Bhangal,1112.3125,12,19900000,6,5,South West,3,Kathmandu
+Bhangal,1112.31,12,21000000,6,6,West,2.5,Kathmandu
+Bhangal,1454.5625,13,21000000,5,4,West,2,Kathmandu
+Bhangal,1026.75,20,21000000,6,3,East,2.5,Kathmandu
+Bhangal,1454.5625,13,21500000,5,5,East,3,Kathmandu
+Bhangal,1454.5625,13,21500000,5,5,South,3,Kathmandu
+Bhangal,1454.5625,20,21500000,6,5,North East,3,Kathmandu
+bhangal,1069.53,13,22000000,7,5,East,2.5,Kathmandu
+Bhangal,1369,13,23000000,5,5,West,3,Kathmandu
+Bhangal,1454.56,13,23800000,5,5,East,2.5,Kathmandu
+Bhangal,1369,18,23800000,6,6,East,3,Kathmandu
+Bhangal,1369,14,24000000,6,6,South East,3,Kathmandu
+Bhangal,1369,15,24000000,6,6,North West,3,Kathmandu
+Bhangal,1369,13,25000000,4,3,East,3,Kathmandu
+Bhangal,1369,12,27000000,5,4,South east,2.5,Kathmandu
+Bhangal,1369,14,27500000,6,6,East,3,Kathmandu
+Bhangal,1095.2,9,28500000,4,3,East,2.5,Kathmandu
+Bhangal,1796.8125,20,28500000,6,6,East,3,Kathmandu
+Bhangal,1095.2,12,30000000,6,4,North,2.5,Kathmandu
+Bhangal,1060.975,13,32000000,5,6,North,2.5,Kathmandu
+Bhangal,1796.8125,12,33500000,4,4,South,3,Kathmandu
+Bhangal,1711.25,13,34000000,3,5,South West,2.5,Kathmandu
+Bhangal,2395.75,15,34500000,5,5,South West,3,Kathmandu
+Bhangal,2053.5,13,35000000,6,4,west,2.5,Kathmandu
+Bhangal,1711.25,14,35000000,3,3,East,2.5,Kathmandu
+Bhangal,1711.25,20,40000000,5,4,East,2.5,Kathmandu
+Bhangal,1745.475,13,45000000,7,6,South West,3,Kathmandu
+Bhatkepati,1069.53,13,18000000,6,3,South,2.5,Kathmandu
+Bhatkepati,2053.5,20,25000000,4,4,South East,2.5,Kathmandu
+Bhelpa,1026.75,13,22500000,4,3,East,2.5,Lalitpur
+Bhelpa,1095.2,11,26500000,5,3,South West,2.5,Lalitpur
+Dhapasi,2395.75,10,50000000,4,4,South,2.5,Kathmandu
+Bhimsengola,3422.5,20,75000000,6,6,North East,2.5,Kathmandu
+Teku,577.546875,10,36500000,8,3,West,3.5,Kathmandu
+Birendra Chowk,1048.140625,13,24000000,6,3,South West,2.5,Kathmandu
+Birendra Chowk,1026.75,14.5,24000000,7,3,North West,3,Kathmandu
+Birendra Chowk,1437.45,13,30500000,5,4,South,2.5,Kathmandu
+Bishal Nagar,2738,12,48000000,6,3,North West,3,Kathmandu
+Bode,1155.09375,13,18500000,3,3,East,2.5,Bhaktapur
+Bode,1369,13,28000000,6,3,North West,2.5,Bhaktapur
+Boharatar,1026.75,13,20000000,5,2,East,2,Kathmandu
+Boharatar,3422.5,13,48500000,4,4,West,2,Kathmandu
+Bohoratar,1026.75,22,16500000,5,3,North,2.5,Kathmandu
+Bohoratar,3422.5,13,48500000,4,4,West,2,Kathmandu
+Boje Pokhari,1155.09375,13,27500000,6,4,North West,3,Lalitpur
+Boudha,1369,8,25000000,4,2,South East,3.5,Kathmandu
+Boudha,727.28,10,17000000,7,4,South East,3.5,Kathmandu
+Boudha,1026.75,8,19000000,6,3,East,3,Kathmandu
+Boudha,1561.515625,16,20531250,4,3,South West,3,Kathmandu
+Boudha,855.62,13,21000000,9,3,South West,2.5,Kathmandu
+Boudha,1262.046875,13,26500000,5,3,North,2.5,Kathmandu
+Boudha,1369,13,27000000,4,4,East,3.5,Kathmandu
+Boudha,1754.03125,20,35000000,5,4,West,2.5,Kathmandu
+Buddhanagar,1745.475,13,41500000,6,5,West,2.5,Kathmandu
+Buddhanagar,1779.7,13,39000000,5,4,East,2.5,Kathmandu
+Buddhanagar,855.625,10,24500000,3,3,South,2.5,Kathmandu
+Buddhanagar,1026.75,10,29900000,5,3,South,2.5,Kathmandu
+Budhanilkantha,1112.3125,10,16000000,4,3,East,3,Kathmandu
+Budhanilkantha,941.1875,13,16000000,3,3,South West,3,Kathmandu
+Budhanilkantha,1711.25,14,16500000,9,3,South,2.5,Kathmandu
+Budhanilkantha,1112.3125,13,18000000,5,5,North,3,Kathmandu
+Budhanilkantha,1197.875,10,19000000,8,4,North,3,Kathmandu
+Budhanilkantha,1026.75,15,19000000,4,3,East,2,Kathmandu
+Budhanilkantha,1454.5625,12,21800000,5,6,North East,3,Kathmandu
+Budhanilkantha,1369,15,22000000,6,4,East,3,Kathmandu
+Budhanilkantha,1026.75,13,22500000,4,3,South,2,Kathmandu
+Budhanilkantha,1026.75,14,22500000,5,5,South East,3,Kathmandu
+Budhanilkantha,1090.921875,15,22500000,4,3,East,3,Kathmandu
+Budhanilkantha,1112.3125,18,22500000,6,6,North East,3,Kathmandu
+Budhanilkantha,1197.875,16,23000000,4,3,East,3,Kathmandu
+Budhanilkantha,1060.975,12,23500000,6,3,East,2.5,Kathmandu
+Budhanilkantha,1369,14,24000000,4,3,East,2,Kathmandu
+Budhanilkantha,1129.425,13,24500000,3,3,West,2.5,Kathmandu
+Budhanilkantha,1197.875,13,24500000,6,4,East,2.5,Kathmandu
+Budhanilkantha,1540.125,12,25000000,7,5,North West,2,Kathmandu
+Budhanilkantha,2738,13,25000000,4,3,West,3,Kathmandu
+Budhanilkantha,1026.75,13,25000000,9,3,South,3,Kathmandu
+Budhanilkantha,1796.8125,13,25500000,6,4,East,3,Kathmandu
+Budhanilkantha,1369,13,26500000,6,6,East,3,Kathmandu
+Budhanilkantha,1060.975,18,26500000,4,4,North,2.5,Kathmandu
+Budhanilkantha,1796.8125,14,27000000,6,6,East,3,Kathmandu
+Budhanilkantha,1026.75,13,28000000,4,4,South,2.5,Kathmandu
+Budhanilkantha,1369,13,28000000,6,6,South East,3,Kathmandu
+Budhanilkantha,1433.171875,13,28000000,5,3,North West,3,Kathmandu
+Budhanilkantha,1796.8125,18,28500000,3,3,South West,2,Kathmandu
+Budhanilkantha,1095.2,12,29000000,6,5,North,2.5,Kathmandu
+Budhanilkantha,1711.25,14,29000000,5,5,South,3,Kathmandu
+Budhanilkantha,1369,15,29800000,5,5,East,3,Kathmandu
+Budhanilkantha,1711.25,20,29900000,7,6,South West,3,Kathmandu
+Budhanilkantha,1711.25,13,30000000,5,4,South West,2.5,Kathmandu
+Budhanilkantha,1369,13,30500000,5,5,West,2,Kathmandu
+Budhanilkantha,1711.25,15,30500000,4,4,North East,3,Kathmandu
+Budhanilkantha,1796.8125,14,31000000,5,5,South West,3,Kathmandu
+Budhanilkantha,1540.125,14,31000000,4,4,East,2,Kathmandu
+Budhanilkantha,1437.45,19,31000000,5,5,South West,2.5,Kathmandu
+Budhanilkantha,1882.375,20,31000000,5,6,North,2.5,Kathmandu
+Budhanilkantha,1796.8125,13,32000000,5,4,South East,3,Kathmandu
+Budhanilkantha,2053.5,13,32000000,5,4,South,2.5,Kathmandu
+Budhanilkantha,1026.75,15,32000000,6,5,North West,2.5,Kathmandu
+Budhanilkantha,2139.0625,20,32000000,4,6,North,3,Kathmandu
+Budhanilkantha,1369,20,32000000,4,4,South,2.5,Kathmandu
+Budhanilkantha,1925.15,21,32000000,6,4,North East,2.5,Kathmandu
+Budhanilkantha,1369,13,32500000,5,5,East,3,Kathmandu
+Budhanilkantha,1369,13,32500000,5,4,South,3,Kathmandu
+Budhanilkantha,1540.125,14,32500000,5,4,West,3,Kathmandu
+Budhanilkantha,1369,15,32500000,5,4,East,3,Kathmandu
+Budhanilkantha,2139.0625,15,32500000,4,4,East,2,Kathmandu
+Budhanilkantha,2139.0625,14,32900000,8,5,North east,2.5,Kathmandu
+Budhanilkantha,1540.12,13,33000000,7,3,South East,3,Kathmandu
+Budhanilkantha,1711.25,13,33000000,5,6,North,3,Kathmandu
+Budhanilkantha,1347.609375,20,33000000,3,4,East,3,Kathmandu
+Budhanilkantha,1369,13,33500000,6,5,North,3,Kathmandu
+Budhanilkantha,1369,16,34000000,5,3,North East,2,Kathmandu
+Budhanilkantha,1369,13,34500000,6,5,West,2.5,Kathmandu
+Budhanilkantha,2845,12,35000000,5,4,East,3,Kathmandu
+Budhanilkantha,1369,14,35000000,4,3,North,3,Kathmandu
+Budhanilkantha,2738,20,35000000,6,6,East,3,Kathmandu
+Budhanilkantha,2053.5,13,36000000,5,5,East,3,Kathmandu
+Budhanilkantha,2053.5,14,36000000,5,7,East,3,Kathmandu
+Budhanilkantha,1711.25,14,36000000,6,5,South West,2.5,Kathmandu
+Budhanilkantha,1369,15,36000000,4,5,West,2.5,Kathmandu
+Budhanilkantha,2053.5,15,36000000,5,4,North East,2,Kathmandu
+Budhanilkantha,2139.0625,20,36500000,5,4,East,2,Kathmandu
+Budhanilkantha,2053.5,13,37000000,6,5,North,2.5,Kathmandu
+Budhanilkantha,2738,15,37000000,5,5,South East,3,Kathmandu
+Budhanilkantha,2053.5,16,37000000,6,6,East,3,Kathmandu
+Budhanilkantha,1369,13,37500000,6,5,North,3,Kathmandu
+Budhanilkantha,1540.12,14,37500000,5,4,South West,2.5,Kathmandu
+Budhanilkantha,1711.25,20,37500000,8,2,West,2,Kathmandu
+Budhanilkantha,2087.725,16.66666667,38000000,4,3,South East,2.5,Kathmandu
+Budhanilkantha,1369,13,38500000,7,5,North East,2.5,Kathmandu
+Budhanilkantha,2053.5,14,39000000,6,6,South West,2.5,Kathmandu
+Budhanilkantha,2053.5,14.5,39000000,6,6,South West,3,Kathmandu
+Budhanilkantha,1711.25,13,39500000,7,5,South East,3,Kathmandu
+Budhanilkantha,1471.675,13,40000000,5,4,West,2.5,Kathmandu
+Budhanilkantha,1711.25,15,40000000,6,6,South East,2.5,Kathmandu
+Budhanilkantha,2823.5625,20,40000000,5,5,East,3,Kathmandu
+Budhanilkantha,1711.25,20,40500000,5,4,East,2.5,Kathmandu
+Budhanilkantha,2823.5625,13,41000000,5,4,East,2,Kathmandu
+Budhanilkantha,2053.5,13,41000000,5,5,South,2.5,Kathmandu
+Budhanilkantha,1745.475,13,41500000,6,6,North West,2.5,Kathmandu
+Budhanilkantha,2738,20,42000000,5,5,East,3,Kathmandu
+Budhanilkantha,1711.25,13,42500000,5,4,South East,3,Kathmandu
+Budhanilkantha,2738,13,42500000,5,5,East,3,Kathmandu
+Budhanilkantha,1454.5625,13,42500000,5,4,West,3,Kathmandu
+Budhanilkantha,1283.4375,16,42500000,5,5,South East,2,Kathmandu
+Budhanilkantha,2823.5625,15,44500000,6,5,South East,3,Kathmandu
+Budhanilkantha,1711.25,16,44500000,5,5,South,3,Kathmandu
+Budhanilkantha,2806.45,12.5,45000000,6,3,South East,2.5,Kathmandu
+Budhanilkantha,2053.5,13,45000000,5,6,North East,3,Kathmandu
+Budhanilkantha,1711.25,13,45000000,6,5,West,2.5,Kathmandu
+Budhanilkantha,1711.25,13,45000000,6,4,East,3,Kathmandu
+Budhanilkantha,1625.6875,13,45000000,5,4,South,3,Kathmandu
+Budhanilkantha,1711.25,15,45000000,5,6,North West,2.5,Kathmandu
+Budhanilkantha,2395.75,15,45000000,4,5,South East,3,Kathmandu
+Budhanilkantha,2738,20,45000000,5,7,South East,3,Kathmandu
+Budhanilkantha,2395.75,20,45000000,5,5,East,2.5,Kathmandu
+Budhanilkantha,1540.125,20,45000000,3,4,South West,3,Kathmandu
+Budhanilkantha,2738,20,45000000,4,4,South,3,Kathmandu
+Budhanilkantha,1711.25,14,46000000,5,6,West,2.5,Kathmandu
+Budhanilkantha,1711.25,16,46500000,5,4,South,2.5,Kathmandu
+Budhanilkantha,2053.5,20,47500000,5,5,East,2.5,Kathmandu
+Budhanilkantha,3165.8125,13,49000000,5,5,West,3,Kathmandu
+Budhanilkantha,1967.9375,13,49500000,5,5,South,2.5,Kathmandu
+Budhanilkantha,1796.8125,14,50000000,4,5,East,3,Kathmandu
+Budhanilkantha,1745.475,15,50000000,4,5,East,2.5,Kathmandu
+Budhanilkantha,3165.8125,20,50000000,5,4,East,2,Kathmandu
+Budhanilkantha,1796.8125,20,50000000,4,4,West,3,Kathmandu
+Budhanilkantha,2840.675,13,51500000,5,3,South West,2,Kathmandu
+Budhanilkantha,2738,13,52500000,9,4,North,3,Kathmandu
+Budhanilkantha,2738,20,52500000,5,5,South East,3,Kathmandu
+Budhanilkantha,1882.375,14,53000000,5,3,North,3,Kathmandu
+Budhanilkantha,2566.875,13,55000000,5,5,North east,2.5,Kathmandu
+Budhanilkantha,2806.45,13,55000000,4,4,North East,2.5,Kathmandu
+Budhanilkantha,2909.125,13,55000000,4,4,North East,2,Kathmandu
+Budhanilkantha,3080.25,18,55000000,4,5,North,3,Kathmandu
+Budhanilkantha,2566.875,19.5,55000000,7,8,South West,3.5,Kathmandu
+Budhanilkantha,3080.25,20,55000000,4,4,South East,3,Kathmandu
+Budhanilkantha,2395.75,13,57000000,4,4,South West,3,Kathmandu
+Budhanilkantha,3080.25,12,57500000,4,3,South,2.5,Kathmandu
+Budhanilkantha,2738,20,57500000,4,5,South West,3,Kathmandu
+Budhanilkantha,2395.75,22,57500000,4,5,East,2,Kathmandu
+Budhanilkantha,2053.5,14,58000000,5,5,South,2.5,Kathmandu
+Budhanilkantha,2481.3125,20,58000000,5,5,East,3,Kathmandu
+Budhanilkantha,2823.5625,20,58000000,9,4,East,3,Kathmandu
+Budhanilkantha,2652.4375,20,59000000,4,6,South East,3,Kathmandu
+Budhanilkantha,2053.5,13,59500000,5,5,South,3,Kathmandu
+Budhanilkantha,3114.475,13,60000000,4,5,South West,2.5,Kathmandu
+Budhanilkantha,3123.03125,13,60000000,7,4,East,2.5,Kathmandu
+Budhanilkantha,2053.5,15,61000000,6,5,North East,2.5,Kathmandu
+Budhanilkantha,3422.5,15,62000000,4,6,East,3,Kathmandu
+Budhanilkantha,2121.95,15,62500000,6,6,North East,2.5,Kathmandu
+Budhanilkantha,2053.5,20,62500000,4,5,East,2.5,Kathmandu
+Budhanilkantha,2566.875,16,63000000,6,5,East,3.5,Kathmandu
+Budhanilkantha,3422.5,16,63000000,5,4,East,2,Kathmandu
+Budhanilkantha,3080.25,22,63000000,5,5,North West,3,Kathmandu
+Budhanilkantha,2738,20,65000000,5,4,East,2,Kathmandu
+Budhanilkantha,2738,20,68000000,5,6,South West,3,Kathmandu
+Budhanilkantha,3422.5,14,70000000,5,5,North,3,Kathmandu
+Budhanilkantha,2395.75,14,70000000,5,6,South East,2.5,Kathmandu
+Budhanilkantha,2738,20,70000000,6,5,West,2.5,Kathmandu
+Budhanilkantha,2823.5625,20,77500000,5,5,East,3,Kathmandu
+Chabahil,684.5,20,13500000,6,3,North,3,Kathmandu
+Chabahil,1069.53125,13,23500000,5,3,North East,2.5,Kathmandu
+Chabahil,1369,13,29500000,5,4,East,2.5,Kathmandu
+Chabahil,1437.45,20,32000000,8,6,West,3,Kathmandu
+Chabahil,2121.95,8,35000000,4,2,West,2.5,Kathmandu
+Chabahil,1369,12,37000000,5,4,South West,3,Kathmandu
+Chabahil,1796.8125,14,49500000,5,5,East,3,Kathmandu
+Chabahil,1796.8125,16,50000000,4,4,East,2,Kathmandu
+Chakupat,1625.6875,13,35000000,5,3,South,3,Lalitpur
+Chakupat,2053.5,13,60000000,5,5,South,3.5,Lalitpur
+Chamati,877.015625,20,21500000,4,2,South East,3,Kathmandu
+Chamati,1197.875,20,34000000,6,3,East,2.5,Kathmandu
+Chandol,1197.875,13.124,24500000,4,3,East,2,Kathmandu
+Chandol,1369,16,33500000,4,5,East,3,Kathmandu
+Chandol,1369,12,35000000,5,4,North,2,Kathmandu
+Chandol,1711.25,12,36000000,7,3,North,2.5,Kathmandu
+Chandragiri,855.625,13,12900000,4,3,South,3,Kathmandu
+Chandragiri,1369,10,16000000,2,2,South East,2,Kathmandu
+Chandragiri,1095.2,10,17000000,6,3,South East,2.5,Kathmandu
+Chandragiri,1026.75,16,17000000,6,3,East,3,Kathmandu
+Chandragiri,1711.25,10,22000000,6,3,East,3,Kathmandu
+Chandragiri,1711.25,20,26700000,6,1,West,2.5,Kathmandu
+Chandragiri,1454.5625,14,29500000,7,4,West,2,Kathmandu
+Changathali,1369,10,17000000,7,3,East,2.5,Lalitpur
+Changathali,1026.75,13,18000000,4,3,North west,2.5,Lalitpur
+Changathali,1471.675,13,28500000,4,2,South,2,Lalitpur
+Changunarayan,1026.75,14,16000000,2,3,East,3,Bhaktapur
+Changunarayan,1048.140625,13,18000000,5,3,South East,3,Bhaktapur
+Chapagaun,1711.25,14,30000000,5,3,South west,2.5,Lalitpur
+Chapali,1540.125,12,27000000,5,4,west,2.5,Kathmandu
+Chapali,2383,13,27000000,6,4,East,3.5,Kathmandu
+Chapali,1129.425,13,28000000,5,3,North East,3,Kathmandu
+Chapali,1129.425,13,29500000,7,3,East,3,Kathmandu
+Chapali,1711.25,13,31000000,4,5,City,2.5,Kathmandu
+Chapali,1403.225,15,33500000,5,5,South West,2.5,Kathmandu
+Chapali,1540.125,14,39900000,5,4,North West,3,Kathmandu
+Chapali,3165.8125,13,42000000,7,6,East,3,Kathmandu
+Chapali,2053.5,13,61500000,5,3,South,2.5,Kathmandu
+Chapali,2053.5,13,61500000,5,5,South,2.5,Kathmandu
+Chappal Karkhana,1026.75,13,32000000,4,5,South West,3,Kathmandu
+Chappal Karkhana,1026.75,13,32000000,4,5,South west,2.5,Kathmandu
+Chappal Karkhana,1026.75,16,35000000,4,4,South,3.5,Kathmandu
+Chappal Karkhana,1839.59375,12,40000000,7,4,North,3.5,Kathmandu
+Chappal Karkhana,2840.675,13,75000000,5,6,South,2.5,Kathmandu
+Chardobato,1540.125,12,31000000,5,4,West,2.5,Bhaktapur
+Chardobato,1437.45,20,41000000,6,6,South,3.5,Bhaktapur
+Chasidol,1390.39,13,23500000,6,3,West,3,Lalitpur
+Chhauni,1582.90625,8,27000000,5,2,South East,2.5,Kathmandu
+Chhauni,1437.45,14,31000000,4,3,South East,2.5,Kathmandu
+Chhauni,1095.2,13,35000000,5,3,South,2.5,Kathmandu
+Chokhel,1711.25,12,33500000,8,4,East,3.5,Lalitpur
+Chokhel,1711.25,12,33500000,8,4,East,3.5,Lalitpur
+Chundevi,1711.25,13,26500000,8,4,East,3.5,Bhaktapur
+Chunikhel,1060.975,13,16000000,2,1,North,2,Kathmandu
+Chunikhel,752.95,10,19500000,4,3,South West,2.5,Kathmandu
+Chunikhel,898.4,10,19500000,4,3,South west,2.5,Kathmandu
+Chunikhel,1026.75,10,25000000,7,3,South,3.5,Kathmandu
+Chunikhel,1403.225,13,28500000,6,5,South,2.5,Kathmandu
+Chunikhel,1129.425,13,30000000,6,5,South East,3,Kathmandu
+Chyasal,1026.75,13,22500000,7,4,West,3,Lalitpur
+Chyasindol,2464.2,20,36000000,5,5,East,2.5,Kathmandu
+Civil Homes,2053.5,18,29500000,3,2,West,3,Lalitpur
+Dadathok,919.79,13,10500000,3,2,West,3,Lalitpur
+Dadhikot,3422.5,14,59500000,5,6,East,2.5,Bhaktapur
+Dadhikot,3422.5,16,63000000,5,5,South,2.5,Bhaktapur
+Dahachowk,1069.53,12,21500000,7,4,East,2.5,Kathmandu
+Dahachowk,3593.62,12,28000000,5,3,East,2.5,Kathmandu
+Dallu,1155.09375,20,29000000,8,4,West,3,Kathmandu
+Dallu,1026.75,16,41000000,6,3,South,3,Kathmandu
+Dallu,2481.3125,14,55000000,7,3,South,3,Kathmandu
+Danchhi,1026.75,17,15000000,4,3,South,2.5,Kathmandu
+Danchhi,1026.75,10,16000000,4,3,South East,2.5,Kathmandu
+Deuba Chowk,2053.5,16,36000000,5,5,East,2.5,Kathmandu
+Deuba Chowk,2395.75,13,36500000,3,3,East,2.5,Kathmandu
+Deuba Chowk,1711.25,13,37500000,5,3,South,2.5,Kathmandu
+Deuba Chowk,1403.225,14,32500000,5,5,South West,2.5,Kathmandu
+Deuba Chowk,2053.5,13,43500000,6,4,North,3,Kathmandu
+Deuba Chowk,1471.675,13,45000000,5,4,South,2.5,Kathmandu
+Deuba Chowk,2053.5,15,47000000,4,5,South,2.5,Kathmandu
+Deuba Chowk,2738,13,49500000,8,5,East,2.5,Kathmandu
+Deuba Chowk,2738,12,52500000,8,4,East,3,Kathmandu
+Deuba Chowk,2738,12,55000000,8,4,East,2.5,Kathmandu
+Dhadikot,3422.5,14,59500000,5,6,East,2.5,Bhaktapur
+Dhalmal,1060.975,12,22000000,5,3,East,2.5,Kathmandu
+Dhalmal,1200,12,5000000,7,3,South west,2.5,Kathmandu
+Dhalpa,1000,13,16500000,8,3,South,3,Kathmandu
+Dhapakhel,855.625,12,17700000,3,4,West,2.5,Lalitpur
+Dhapakhel,752.95,13,19000000,6,4,South,3,Lalitpur
+Dhapakhel,1026.75,20,19800000,4,3,South,2.5,Lalitpur
+Dhapakhel,1197.87,12,25000000,4,3,North East,2.5,Lalitpur
+Dhapakhel,1625.6875,13,25000000,4,3,South,3,Lalitpur
+Dhapakhel,1711.25,18,25000000,7,2,South East,2.5,Kathmandu
+Dhapakhel,1437.45,18,26000000,5,4,East,2.5,Lalitpur
+Dhapakhel,1129.425,13,27000000,6,4,East,2.5,Lalitpur
+Dhapakhel,1026.75,20,27000000,5,4,North East,2.5,Lalitpur
+Dhapakhel,1711.25,13,28000000,6,3,East,3,Lalitpur
+Dhapakhel,1095.2,13.5,29000000,3,3,South East,2.5,Lalitpur
+Dhapakhel,2806.45,13,42000000,4,3,North East,2,Lalitpur
+Dhapakhel,898.4,12,13500000,4,3,South,2.5,Lalitpur
+Dhapasi,1112.3125,13,17000000,4,3,East,3,Kathmandu
+Dhapasi,1026.75,12,19500000,5,3,East,2.5,Kathmandu
+Dhapasi,1060.975,12,21000000,5,3,East,2.5,Kathmandu
+Dhapasi,1026.75,13,21000000,5,3,West,2,Kathmandu
+Dhapasi,1112.3125,13,23000000,4,3,North East,3,Kathmandu
+Dhapasi,1454.5625,13,25500000,5,6,East,3,Kathmandu
+Dhapasi,2139.0625,15,26000000,4,3,West,3,Kathmandu
+Dhapasi,1026.75,13,27000000,5,3,North,2.5,Kathmandu
+Dhapasi,1095.2,16,28500000,4,4,East,2.5,Kathmandu
+Dhapasi,1095.2,14,29000000,4,3,North,2.5,Kathmandu
+Dhapasi,1369,13,29500000,3,3,South,2.5,Kathmandu
+Dhapasi,1369,13,29500000,5,4,East,2.5,Kathmandu
+Dhapasi,1026.75,13,29500000,5,3,West,2.5,Kathmandu
+Dhapasi,1129.425,13,31000000,5,3,South West,2.5,Kathmandu
+Dhapasi,1711.25,13,32000000,6,6,East,2.5,Kathmandu
+Dhapasi,1711.25,13,32000000,6,5,East,2.5,Kathmandu
+Dhapasi,2053.5,10,32500000,5,1,East,2.5,Kathmandu
+Dhapasi,1711.25,13,32500000,5,5,City,2.5,Kathmandu
+Dhapasi,1711.25,20,33500000,4,4,North East,3,Kathmandu
+Dhapasi,1711.25,15,35000000,4,4,East,2,Kathmandu
+Dhapasi,1403.225,16,36000000,7,7,South East,3.5,Kathmandu
+Dhapasi,1369,13,37500000,6,4,East,3,Kathmandu
+Dhapasi,2395.75,12,39000000,7,4,East,2.5,Kathmandu
+Dhapasi,2994.6875,12,40000000,8,4,South,3,Kathmandu
+Dhapasi,1369,20,41000000,5,4,South East,3,Kathmandu
+Dhapasi,1711.25,18,42500000,6,5,South,2.5,Kathmandu
+Dhapasi,2395.75,13,44000000,5,4,North East,2.5,Kathmandu
+Dhapasi,2738,20,45000000,6,6,South West,3,Kathmandu
+Dhapasi,3080.25,12,47000000,6,2,East,2.5,Kathmandu
+Dhapasi,2087.725,15,47500000,3,4,South East,2.5,Kathmandu
+Dhapasi,2053.5,20,51000000,4,2,East,2.5,Kathmandu
+Dhapasi,3422.5,13,58000000,4,2,East,2.5,Kathmandu
+Dhapasi,3422.5,13,58000000,4,3,East,2,Kathmandu
+Dhapasi,3422.5,13,58000000,4,4,East,2,Kathmandu
+Dhapasi,3114.475,17.5,58000000,5,5,South,3.5,Kathmandu
+Dhapasi,3422.5,12,61000000,4,3,East,3,Kathmandu
+Dhapasi,2738,20,65000000,6,6,West,3,Kathmandu
+Dhapasi,2738,22,65000000,5,6,South East,3,Kathmandu
+Dharmasthali,1369,20,21000000,4,2,North,2,Kathmandu
+Dholahiti,1369,20,27500000,4,4,West,2.5,Lalitpur
+Dholahiti,1369,13.5,33000000,5,4,West,2.5,Lalitpur
+Dholahiti,1796.8125,20,29900000,6,3,East,2.5,Lalitpur
+Dhumbarahi,1369,10,38000000,3,3,East,2.5,Kathmandu
+Dhumbarahi,2395.75,12,45000000,8,5,East,3.5,Kathmandu
+Dhumbarahi,1779.7,13,55000000,8,7,North West,3.5,Kathmandu
+Dhumbarahi,2429.975,10,56000000,7,6,South,3.5,Kathmandu
+Dhumbarahi,2429.975,10,57000000,8,8,East,3.5,Kathmandu
+Dhumbarahi,2738,12,60000000,8,5,East,3,Kathmandu
+Dhumbarahi,2738,13,62000000,7,7,East,3,Kathmandu
+Dhumbarahi,2053.5,20,65000000,5,4,South East,2.5,Kathmandu
+Dhumbarahi,2053.5,20,65000000,5,4,East,3,Kathmandu
+Dhumbarahi,2738,11.5,67500000,9,6,South East,2,Kathmandu
+Dhunge Sangu,1283.4375,8,27500000,7,5,North East,2.5,Lalitpur
+Dhungedhara,1026.75,14,24000000,5,5,East,3,Kathmandu
+Dhungedhara,1369,13,27500000,5,6,South,2.5,Kathmandu
+Dhungedhara,1026.75,13,33000000,5,4,West,3,Kathmandu
+Duwakot,855.625,8,13500000,5,4,North,3,Bhaktapur
+Duwakot,1369,10,14500000,6,3,North,3,Bhaktapur
+Duwakot,1129.425,13,21500000,5,3,West,2.5,Bhaktapur
+Ekantakuna,1155.09375,22,27000000,5,3,West,3,Lalitpur
+Ekatabasti,752.95,11,16000000,4,5,South,2.5,Kathmandu
+Ekatabasti,1369,13,29900000,7,7,South East,3,Kathmandu
+Ekatabasti,1369,13,29900000,7,5,South West,3,Kathmandu
+Ekatabasti,1026.75,13,31000000,6,4,East,2.5,Kathmandu
+Ekatabasti,2139.0625,13,36000000,5,5,East,3,Kathmandu
+Gahana Pokhari,2156.175,11,70000000,6,5,South,2,Kathmandu
+Gairigaun,1129.425,13,22000000,5,3,South East,2.5,Kathmandu
+Gairidhara,1711.25,14,55000000,4,5,East,3,Kathmandu
+Gairigaun,1283.43,14,24500000,6,4,South West,2.5,Kathmandu
+Gairigaun,1711.25,13,27500000,7,4,East,2.5,Kathmandu
+Ganesh Chowk,1369,14,26000000,6,4,East,2.5,Kathmandu
+Ganesh Chowk,1437.45,15,32000000,5,5,South West,2.5,Kathmandu
+Ganesh Chowk,1197.875,14,32500000,5,5,South West,2.5,Kathmandu
+Ganesh Chowk,1711.25,13,35000000,5,5,South,2.5,Kathmandu
+Ganesh Chowk,1369,13,35000000,5,4,East,2.5,Kathmandu
+Ganesh Chowk,1779.7,13,45000000,5,4,South West,2.5,Kathmandu
+Ganesh Chowk,2053.5,20,58000000,8,3,North,3.5,Kathmandu
+Ganesh Chowk,2087.725,15,62000000,6,5,South,2.5,Kathmandu
+Ganesh mandir,1437.45,8,18500000,1,1,East,2.5,Bhaktapur
+Gatthaghar,1882.37,13,39000000,7,4,West,3,Bhaktapur
+Gatthaghar,1369,13,30000000,5,5,West,3.5,Bhaktapur
+Gatthaghar,2053.5,13,37500000,9,6,North,3.5,Bhaktapur
+Gaurighat,1026.75,12,25000000,8,3,East,3,Kathmandu
+Ghattekulo,1095.2,18,32500000,6,3,East,3.5,Kathmandu
+Godawari,1711.25,16,12500000,3,1,West,2,Lalitpur
+Godawari,1060.975,11,17500000,6,3,West,2,Lalitpur
+Godawari,1369,20,17500000,7,4,East,3,Lalitpur
+Godawari,1540.125,18,21000000,6,3,South East,2,Lalitpur
+Godawari,2144.897812,16,55000000,4,4,North,2.5,Lalitpur
+Gokarna,1369,15,13500000,4,2,East,2,Kathmandu
+Goldhunga,1026.75,10,16500000,6,3,South East,2.5,Kathmandu
+Goldhunga,1129.425,10,17000000,5,3,South,2.5,Kathmandu
+Goldhunga,1197.875,13,17800000,9,3,East,3,Kathmandu
+Goldhunga,1369,10,19500000,4,5,North East,2.5,Kathmandu
+Goldhunga,1403.225,10,20000000,6,3,West,2.5,Kathmandu
+Goldhunga,1026.75,16,20500000,4,3,East,2.5,Kathmandu
+Goldhunga,1500,10,29500000,8,4,West,3.5,Kathmandu
+Goldhunga,1540.125,10,29900000,8,4,West,3.5,Kathmandu
+Goldhunga,1711.475,10,29900000,8,4,West,3.5,Kathmandu
+Goldhunga,1369,20,32000000,4,4,North,2.5,Kathmandu
+Golfutar,1026.75,13,18000000,6,4,East,3,Kathmandu
+Golfutar,1060.975,13,22500000,6,3,North East,3,Kathmandu
+Golfutar,1060.975,16,27500000,3,3,South West,2.5,Kathmandu
+Golfutar,1475.95,14,28500000,5,4,City,2.5,Kathmandu
+Golfutar,1369,15,29000000,5,3,South West,2.5,Kathmandu
+Golfutar,1095.2,16,29000000,5,5,West,2.5,Kathmandu
+Golfutar,1369,16,29500000,4,3,South,2.5,Kathmandu
+Golfutar,1095.2,20,31500000,5,5,North East,2.5,Kathmandu
+Golfutar,1369,13,32500000,4,2,East,2.5,Kathmandu
+Golfutar,1369,16,32500000,5,4,East,2.5,Kathmandu
+Golfutar,2395.75,15,35000000,4,4,East,2,Kathmandu
+Golfutar,2395.75,20,35000000,4,4,East,2,Kathmandu
+Golfutar,1369,20,36500000,5,3,East,2.5,Kathmandu
+Golfutar,1369,20,37000000,5,6,South,3,Kathmandu
+Golfutar,1369,20,37000000,5,5,South,3,Kathmandu
+Golfutar,2139.0625,13,40000000,4,5,North,3,Kathmandu
+Golfutar,1779.7,15.12944333,43000000,5,5,East,2.5,Kathmandu
+Golfutar,2139.0625,20,43000000,4,4,South East,3,Kathmandu
+Golfutar,1437.45,16,43500000,3,3,West,2.5,Kathmandu
+Golfutar,1711.25,15,44500000,5,5,West,2.5,Kathmandu
+Golfutar,2053.5,15,45000000,6,6,East,3,Kathmandu
+Golfutar,2053.5,15,45000000,6,7,East,3,Kathmandu
+Golfutar,3080.25,15,47500000,4,5,East,3,Kathmandu
+Golfutar,3080.25,16,47500000,5,4,South East,2,Kathmandu
+Golfutar,2738,13,50500000,5,5,East,2.5,Kathmandu
+Golfutar,2395.75,13,54900000,5,5,North East,2,Kathmandu
+Golfutar,3080.25,20,55000000,4,4,South East,2,Kathmandu
+Golfutar,3422.5,20,56000000,6,6,East,3,Kathmandu
+Golfutar,2087.725,14,65000000,5,4,South,2.5,Kathmandu
+Gongabu,1437.45,10,22500000,6,3,East,3.5,Kathmandu
+Gongabu,1069.53,12,23750000,6,5,East,3.5,Kathmandu
+Gongabu,1197.875,13,26000000,4,3,North,2.5,Kathmandu
+Gongabu,128.8,12,35000000,4,3,South,3,Kathmandu
+Gongabu,1369,12,35000000,5,3,South,3.5,Kathmandu
+Gongabu,1411.78,12,35000000,8,5,South,3.5,Kathmandu
+Gongabu,1711.25,10,37000000,4,2,West,2,Kathmandu
+Gongabu,1711.25,13,37000000,8,4,North East,3.5,Kathmandu
+Gongabu,1060.975,10,37500000,8,3,West,3.5,Kathmandu
+Gongabu,1711.25,10,37000000,4,2,West,2,Kathmandu
+Gothatar,898.4,13,12500000,4,2,East,2,Kathmandu
+Gothatar,1112.3125,13,15800000,2,1,East,2,Kathmandu
+Gothatar,1369,10,17000000,6,3,North,2.5,Kathmandu
+Gothatar,1026.75,13,17500000,4,3,East,2.5,Kathmandu
+Gothatar,1026.75,14,18500000,3,3,East,2.5,Kathmandu
+Gothatar,1026.75,10,21000000,5,3,South,2.5,Kathmandu
+Gothatar,1390.39,16,23000000,6,5,East,3,Kathmandu
+Gothatar,1069.53125,13,24000000,6,3,East,2.5,Kathmandu
+Gothatar,1369,10,38000000,8,5,East,2.5,Kathmandu
+Gothatar,2053.5,20,40000000,4,3,South West,2.5,Kathmandu
+Gothatar,2395.75,14,56000000,7,6,West,3.5,Kathmandu
+Grande Villa,2909.12,18,65000000,5,5,West,3,Kathmandu
+Grande Villa,1454.5625,13,25000000,6,5,South,3,Kathmandu
+Grande Villa,2481.3125,15,39000000,6,6,South,3,Kathmandu
+Grande Villa,1668.46875,16,39000000,4,3,North,2,Kathmandu
+Greenhill City,1069.53,20,21000000,4,3,West,2.5,Kathmandu
+Greenhill City,1026.75,13,23000000,5,3,South East,2.5,Kathmandu
+Greenland,1369,13,27500000,5,5,East,2.5,Kathmandu
+Greenland,2502.7,16,38000000,7,5,South,3.5,Kathmandu
+Greenland,3080.25,10,45000000,7,4,East,2.5,Kathmandu
+Guheshwori,919.796875,13,21500000,8,4,West,2,Kathmandu
+Guheshwori,1369,16,28500000,8,3,North East,3,Kathmandu
+Guheshwori,1283.4375,20,28000000,8,4,West,2.5,Kathmandu
+Gurjudhara,1069.53,16,16500000,4,3,East,2.5,Kathmandu
+Gurjudhara,1437.45,10,18500000,4,3,East,3,Kathmandu
+Gurjudhara,1540.12,10,18500000,4,3,East,3,Kathmandu
+Gurjudhara,1403.225,13,25000000,5,3,West,3.5,Kathmandu
+Gurjudhara,2053.5,10,29000000,5,3,South East,2.5,Kathmandu
+Gurjudhara,1454.5625,11,17000000,6,3,South East,2,Kathmandu
+Gwarko,1369,15,19500000,5,3,West,2,Lalitpur
+Gwarko,1048.140625,13,21000000,3,2,South,2.5,Lalitpur
+Gwarko,718.725,13,25000000,6,2,West,2,Lalitpur
+Gwarko,1197.87,20,26000000,7,4,East,2.5,Lalitpur
+Gwarko,1060.975,13,27000000,5,4,South,3,Lalitpur
+Gwarko,1060.975,13,27000000,4,3,South,2.5,Lalitpur
+Gwarko,1437.45,13,30000000,5,4,South,2.5,Lalitpur
+Gwarko,1437.45,14,35500000,6,5,South,3.5,Lalitpur
+Gwarko,1796.8125,14,35500000,6,5,South,3,Lalitpur
+Gyaneshwor,2224.625,15,56000000,6,5,South,3,Kathmandu
+Gyaneshwor,2053.5,15,56000000,4,4,South,2.5,Kathmandu
+Handigaun,2464.2,15,52500000,7,5,South,2.5,Kathmandu
+Hanumanghat,1863,12,40000000,1,4,South,3.5,Kathmandu
+Harisiddhi,1090.921875,18,18000000,3,3,South East,3,Lalitpur
+Harisiddhi,1090.921875,18,20000000,3,3,South East,3,Lalitpur
+Harisiddhi,1197.875,13,22000000,5,3,South,3,Lalitpur
+Harisiddhi,1369,20,22000000,5,5,City,2.5,Lalitpur
+Harisiddhi,1095.2,20,23500000,5,3,South,2.5,Lalitpur
+Harisiddhi,1155.09375,20,24000000,3,5,North West,2.5,Lalitpur
+Harisiddhi,1095.2,13,26000000,5,3,East,2.5,Lalitpur
+Harisiddhi,1411.78125,20,27000000,3,3,North,2.5,Lalitpur
+Harisiddhi,1026.75,20,27000000,4,4,West,2.5,Lalitpur
+Harisiddhi,2053.5,16.5,35000000,7,4,North,2.5,Lalitpur
+Harisiddhi,2738,12,40000000,8,5,East,2.5,Lalitpur
+Hattiban,1026.75,20,16000000,1,1,East,3,Lalitpur
+Hattiban,1026.75,14,20000000,4,2,South East,2,Lalitpur
+Hattiban,1026.75,14,20000000,3,2,South East,2,Lalitpur
+Hattiban,1369,12,21500000,6,4,East,2.5,Lalitpur
+Hattiban,1711.25,20,21500000,4,4,South East,2.5,Lalitpur
+Hattiban,1197.87,13,23500000,5,3,South,2.5,Lalitpur
+Hattiban,1369,16,24000000,3,3,South West,2.5,Lalitpur
+Hattiban,700,20,25000000,6,3,North east,3,Lalitpur
+Hattiban,1095.2,13,25500000,6,5,South,2.5,Lalitpur
+Hattiban,2087.725,15,26000000,8,3,South,2.5,Lalitpur
+Hattiban,1380,13,26500000,6,5,East,3,Lalitpur
+Hattiban,1262.04,24,27000000,6,3,East,3.5,Lalitpur
+Hattiban,1403.225,13,28700000,6,6,South,3,Lalitpur
+Hattiban,1403.225,13,28700000,6,5,South,3.5,Lalitpur
+Hattiban,1882.375,12,29000000,4,4,North,2.5,Lalitpur
+Hattiban,1112.3125,13,29000000,6,4,West,2.5,Lalitpur
+Hattiban,2224.62,22,29000000,5,2.5,North,3,Lalitpur
+Hattiban,1369,13,32500000,5,4,South,3,Lalitpur
+Hattiban,1095.2,20,32500000,3,3,West,2.5,Lalitpur
+Hattiban,1095.2,13,34000000,8,4,East,3.5,Lalitpur
+Hattiban,1369,13,35000000,5,4,North East,3.5,Lalitpur
+Hattiban,1403.225,13,39500000,7,5,North East,3,Lalitpur
+Hattiban,1403.225,13,40000000,7,5,North East,3,Lalitpur
+Hattiban,2053.5,16,45000000,5,5,North,2.5,Lalitpur
+Hattiban,1540.125,13,46000000,4,4,East,3,Lalitpur
+Hattiban,1711.25,14,46000000,5,4,East,2,Lalitpur
+Hattiban,1129.425,15,46000000,4,5,South,2.5,Lalitpur
+Hattiban,2100,16,50000000,5,4,South,3,Lalitpur
+Hattiban,1200,20,50000000,4,3,North,2.5,Lalitpur
+Hattiban,2395.75,20,55000000,5,5,South,3,Lalitpur
+Hattiban,2673.828125,24,57500000,5,5,West,3,Lalitpur
+Hattiban,3490.95,15,75000000,4,6,South East,2.5,Lalitpur
+Hattidanda,1095.2,13,25000000,6,3,East,2.5,Kathmandu
+Hattigauda,855.625,8,15000000,4,2,South,3,Kathmandu
+Hattigauda,1369,22,24500000,6,5,North East,3,Kathmandu
+Hattigauda,1711.25,14,26500000,6,6,West,3,Kathmandu
+Hattigauda,1369,12,28000000,5,3,East,2.5,Kathmandu
+Hattigauda,1369,15,28500000,5,5,North,3,Kathmandu
+Hattigauda,1711.25,13,31000000,6,5,North,3,Kathmandu
+Hattigauda,1711.25,13,33400000,5,5,South West,3,Kathmandu
+Hattigauda,1754.03,13,33400000,5,5,South east,2.5,Kathmandu
+Hattigauda,2139.0625,13,33500000,5,5,North West,3,Kathmandu
+Hattigauda,2139.0625,14,33500000,5,5,North West,3,Kathmandu
+hattigauda,2395.75,13,34000000,6,4,South west,2.5,Kathmandu
+Hattigauda,1711.25,13,34500000,5,5,South,3,Kathmandu
+Hattigauda,1711.25,13,34500000,5,4,South,2.5,Kathmandu
+Hattigauda,2139.0625,13,35500000,5,5,North West,3,Kathmandu
+Hattigauda,2139.0625,15,35500000,4,4,East,2,Kathmandu
+Hattigauda,2224.625,13,36500000,5,3,North East,3,Kathmandu
+Hattigauda,2139.05,12,37500000,5,2,East,2,Kathmandu
+Hattigauda,1711.25,15,37500000,4,3,South East,2,Kathmandu
+Hattigauda,2053.5,13,45000000,5,5,North,3,Kathmandu
+Hattigauda,1882.375,13,45000000,5,4,East,3,Kathmandu
+Hattigauda,3165.8125,13,45000000,6,6,East,3,Kathmandu
+Hattigauda,1540.125,20,50000000,4,5,West,2.5,Kathmandu
+Hattigauda,1369,13,34000000,4,3,South East,3,Kathmandu
+Hattigauda,2121.95,13,36500000,4,3,North East,3,Kathmandu
+Hattigauda,2121.95,15,36500000,5,5,East,2.5,Kathmandu
+Hattigauda,2053.5,14,37500000,7,5,North East,2.5,Kathmandu
+Hattigauda,1745.475,13,39000000,5,7,North,3.5,Kathmandu
+Hattigauda,1711.25,13,45000000,6,4,North,3,Kathmandu
+Hattigauda,1711.25,15,45000000,6,5,North East,2.5,Kathmandu
+Hattigauda,2053.5,15,57500000,6,5,South East,2.5,Kathmandu
+Hattigauda,2121.95,14,65000000,6,7,East,2.5,Kathmandu
+Hattigauda,2121.95,20,77000000,4,5,West,2.5,Kathmandu
+Hattisar,1711.25,20,50000000,3,3,South,3,Kathmandu
+Height,1754.03,14,37500000,6,1,North east,2,Kathmandu
+Height,2121.95,16,38000000,4,4,South east,2.5,Kathmandu
+Hepali,1026.75,20,26000000,4,5,North,2.5,Kathmandu
+Hepali,1711.25,16,43000000,4,4,South east,2.5,Kathmandu
+Hepali,1369,13,33500000,4,5,North East,2.5,Kathmandu
+Hepali,1437.45,20,45000000,3,3,South West,3,Kathmandu
+Hepali,1471.675,13,46500000,6,6,West,3,Kathmandu
+Hepali,1779.7,15,55000000,5,5,North East,2.5,Kathmandu
+Changunarayan,1304.82,10,31000000,5,4,North,2.5,Kathmandu
+Changunarayan,1129.425,10,31000000,4,3,North,2.5,Kathmandu
+Imadol,1026.75,14,12900000,2,2,South,2,Lalitpur
+Imadol,748.671875,18,13500000,3,2,West,2,Lalitpur
+Imadol,1026.75,12,16000000,5,3,East,3,Lalitpur
+Imadol,1026.75,12,16000000,5,3,East,2.5,Lalitpur
+Imadol,1026.75,13,16000000,4,4,South East,3,Lalitpur
+Imadol,1026.75,10,17000000,5,4,east,2.5,Lalitpur
+Imadol,1026.75,13,17000000,8,3,South,2.5,Lalitpur
+Imadol,1155.09375,13,17000000,4,3,South,2.5,Lalitpur
+Imadol,752.95,13,17000000,3,3,East,2.5,Lalitpur
+Imadol,1026.75,13,17000000,6,3,North West,2.5,Kathmandu
+Imadol,1069.53125,13,17200000,6,3,East,2.5,Lalitpur
+Imadol,1069.53125,13,17500000,5,3,South East,2.5,Lalitpur
+Imadol,1026.75,13,17500000,5,3,South,3,Lalitpur
+Imadol,1048.14,14,17500000,5,3,South,2.5,Lalitpur
+Imadol,1026.75,13,18000000,6,3,North east,2.5,Kathmandu
+Imadol,1197.875,13,18500000,5,2,West,2.5,Lalitpur
+Imadol,1026.75,13,18500000,4,4,North,2.5,Lalitpur
+Imadol,1026.75,13,18500000,4,3,North,2.5,Lalitpur
+Imadol,1026.75,13,18500000,4,4,West,2.5,Lalitpur
+Imadol,1026.75,13,18500000,4,3,South,2.5,Lalitpur
+Imadol,1090.921875,10,19000000,4,3,South East,3,Lalitpur
+Imadol,752.95,10,19000000,4,2,South,2.5,Lalitpur
+Imadol,1197.875,13,19000000,4,3,North West,2.5,Lalitpur
+Imadol,1026.75,13,19000000,4,3,South,2.5,Lalitpur
+Imadol,1090.92,14,19000000,4,3,East,2.5,Lalitpur
+Imadol,1048.140625,20,19200000,4,5,East,3,Lalitpur
+Imadol,1112.3125,12,19500000,6,3,South,2.5,Lalitpur
+Imadol,1026.75,12,19500000,5,4,East,2.5,Lalitpur
+Imadol,787.175,13,19500000,4,3,East,2.5,Lalitpur
+Imadol,1197.875,13,19500000,5,3,East,2.5,Lalitpur
+Imadol,1369,13,19500000,5,4,South,2.5,Lalitpur
+Imadol,1197.875,13,19500000,5,3,North,3,Lalitpur
+Imadol,900,13,19500000,5,5,East,2.5,Lalitpur
+Imadol,1200,16,19500000,5,3,West,2.5,Lalitpur
+Imadol,1112.3125,20,19500000,5,3,East,2.5,Lalitpur
+Imadol,1026.75,20,19500000,5,3,North East,3,Lalitpur
+Imadol,1197.875,20,19500000,4,3,North East,2.5,Lalitpur
+Imadol,941.1875,20,19500000,4,3,East,2.5,Lalitpur
+Imadol,1090.92,10,19700000,4,4,South East,2.5,Lalitpur
+Imadol,1454.5625,13,19700000,4,4,South,3,Lalitpur
+Imadol,1026.75,13,19900000,4,2,South,2,Lalitpur
+Imadol,1411.78125,12,20000000,7,3,West,3.5,Lalitpur
+Imadol,1095.2,12,20000000,6,2,East,3,Lalitpur
+Imadol,1197.875,13,20000000,6,3,North,2.5,Lalitpur
+Imadol,1026.75,13,20000000,4,3,East,2.5,Lalitpur
+Imadol,1026.75,13,20000000,4,4,North,2.5,Lalitpur
+Imadol,752.95,13,20500000,4,4,North,2.5,Lalitpur
+Imadol,1112.3125,13,20500000,4,4,North,3,Lalitpur
+Imadol,855.625,13,20500000,4,3,North East,3,Lalitpur
+Imadol,855.625,13,20600000,6,3,West,2.5,Lalitpur
+Imadol,1026.75,12,21000000,5,4,West,2.5,Lalitpur
+Imadol,1026.75,13,21000000,4,4,North,3,Lalitpur
+Imadol,1197.84,13,21000000,4,4,East,3,Lalitpur
+Imadol,1197.875,13,21000000,4,3,East,2.5,Lalitpur
+Imadol,1369,20,21000000,4,5,South West,2.5,Lalitpur
+Imadol,1197.875,13,21400000,4,4,North East,2.5,Lalitpur
+Imadol,1026.75,10,21500000,7,4,South,2.5,Lalitpur
+Imadol,1129.425,12,21500000,6,4,North,2.5,Lalitpur
+Imadol,787.175,13,21500000,3,3,East,3,Lalitpur
+Imadol,1060.975,13,21500000,4,3,South,2.5,Lalitpur
+Imadol,1026.75,13,21500000,4,4,East,3,Lalitpur
+Imadol,1026.75,13,21500000,4,3,East,3,Lalitpur
+Imadol,1112.3125,20,21500000,5,3,East,2.5,Lalitpur
+Imadol,1060.975,13,21800000,4,4,East,2.5,Lalitpur
+Imadol,1369,10,22000000,5,3,North West,2.5,Lalitpur
+Imadol,1540.125,13,22000000,7,4,South,3.5,Lalitpur
+Imadol,1133.703125,13,22000000,5,5,East,2.5,Lalitpur
+Imadol,1048.14,13,22000000,4,3,East,2.5,Lalitpur
+Imadol,1112.31,16,22000000,4,4,North east,2.5,Lalitpur
+Imadol,1197.875,20,22000000,5,3,East,2.5,Lalitpur
+Imadol,1197.875,13,22500000,4,4,East,3,Lalitpur
+Imadol,1197.875,13,22500000,4,4,South,3,Lalitpur
+Imadol,1026.75,13,22500000,4,4,West,2.5,Lalitpur
+Imadol,1197.875,16,22500000,6,3,West,2.5,Lalitpur
+Imadol,1026.75,12,23000000,4,4,East,2.5,Lalitpur
+Imadol,1026.75,13,23000000,4,4,West,2.5,Lalitpur
+Imadol,1582.9,14,23000000,6,3,North,2.5,Lalitpur
+Imadol,1026.75,10,23500000,6,4,North,3,Lalitpur
+Imadol,1026.75,13,23500000,5,3,East,2.5,Lalitpur
+Imadol,1060.975,13,23500000,3,4,North,2.5,Lalitpur
+Imadol,1060.975,13,23500000,4,5,North,2.5,Lalitpur
+Imadol,1369,13,23500000,6,4,West,3,Lalitpur
+Imadol,1026.75,13,23500000,4,4,East,2.5,Lalitpur
+Imadol,1026.75,13,23500000,4,4,North,3,Lalitpur
+Imadol,1197.875,13,23500000,4,4,South,2.5,Lalitpur
+Imadol,1026.75,13,23500000,5,3,East,3,Lalitpur
+Imadol,1026.75,13,23500000,4,4,South,2.5,Lalitpur
+Imadol,1026.75,13,23500000,4,4,East,2.5,Lalitpur
+Imadol,1026.75,13,23500000,5,4,East,2.5,Lalitpur
+Imadol,1026.75,13,23500000,4,3,East,2.5,Lalitpur
+Imadol,1095.2,16,23500000,6,4,East,2.5,Lalitpur
+Imadol,1283.43,20,23500000,4,4,South,2.5,Lalitpur
+Imadol,1060.975,13,24000000,4,4,East,3,Lalitpur
+Imadol,1095.2,13,24000000,4,3,East,2.5,Lalitpur
+Imadol,1026.75,13,24000000,4,3,East,2.5,Lalitpur
+Imadol,1112.31,13,24000000,4,3,East,2.5,Lalitpur
+Imadol,1048.14,13,24000000,4,3,East,2.5,Lalitpur
+Imadol,1026.75,16,24000000,5,4,North,2.5,Lalitpur
+Imadol,1047.285,16,24000000,4,4,West,2.5,Lalitpur
+Imadol,1369,18,24000000,4,4,East,2.5,Lalitpur
+Imadol,1048.140625,20,24000000,4,3,West,3,Lalitpur
+Imadol,1197.875,13,24500000,4,4,East,3,Lalitpur
+Imadol,1048.14,13,24500000,4,5,East,3,Lalitpur
+Imadol,1369,13,24900000,6,3,South East,3,Lalitpur
+Imadol,898.44,10,25000000,6,3,East,3.5,Lalitpur
+Imadol,1112.31,12,25000000,2,3,East,2.5,Lalitpur
+Imadol,1129.425,13,25000000,5,4,South West,2.5,Lalitpur
+Imadol,1197.875,13,25000000,5,3,South West,2.5,Lalitpur
+Imadol,1112.3125,13,25000000,5,4,East,3.5,Lalitpur
+Imadol,1112.31,13,25000000,7,4,North,2.5,Lalitpur
+Imadol,1069.53,13,25000000,4,3,South east,2.5,Lalitpur
+Imadol,1369,13,25000000,4,4,North East,2.5,Lalitpur
+Imadol,1060.975,14,25000000,2,3,South East,2.5,Lalitpur
+Imadol,1090.92,16,25000000,4,4,South,2.5,Kathmandu
+Imadol,1197.875,20,25000000,5,3,West,2.5,Lalitpur
+Imadol,1200,20,25000000,5,3,East,3,Lalitpur
+Imadol,1026.75,13,25500000,4,4,West,2.5,Lalitpur
+Imadol,1026.75,13,25500000,6,3,North,2.5,Lalitpur
+Imadol,1112.3125,13,25500000,4,4,North East,3,Lalitpur
+Imadol,1129.425,13,26000000,5,3,North East,2.5,Lalitpur
+Imadol,1060.975,13,26000000,4,5,North,2,Lalitpur
+Imadol,1026.75,13,26000000,3,3,East,2.5,Lalitpur
+Imadol,1026.75,13,26000000,6,3,East,3,Lalitpur
+Imadol,1197.875,13,26000000,4,4,East,3,Lalitpur
+Imadol,1026.75,13,26000000,6,3,East,3,Lalitpur
+Imadol,1095.2,11,26500000,4,4,North West,2.5,Lalitpur
+Imadol,1095.2,13,26500000,5,4,North,2.5,Lalitpur
+Imadol,1026.75,13,26500000,5,5,North,3.5,Lalitpur
+Imadol,1197.875,13,26500000,4,3,East,3,Lalitpur
+Imadol,1112.3125,13,26500000,5,4,North,3,Lalitpur
+Imadol,1026.75,13,26500000,5,3,West,3,Lalitpur
+Imadol,1060.975,20,26500000,4,3,South,2.5,Lalitpur
+Imadol,1197.875,20,26500000,4,3,South,3,Lalitpur
+Imadol,1060.975,20,26500000,4,4,South,2.5,Lalitpur
+Imadol,1347.609375,13,27000000,2,3,North East,3,Lalitpur
+Imadol,1112.3125,13,27000000,5,4,South,3,Lalitpur
+Imadol,1197.87,13,27000000,6,4,North east,2.5,Lalitpur
+Imadol,1095.2,14,27000000,5,3,South West,2.5,Lalitpur
+Imadol,1095.2,20,27000000,5,4,West,2.5,Lalitpur
+Imadol,1026.75,13,27500000,5,3,South East,3,Lalitpur
+Imadol,1095.2,13,27500000,4,4,East,2.5,Lalitpur
+Imadol,1095.2,20,27500000,5,4,West,2.5,Lalitpur
+Imadol,1060.975,20,27500000,5,3,East,2.5,Lalitpur
+Imadol,1026.75,20,27500000,5,3,West,3.5,Lalitpur
+Imadol,1060.975,20,27500000,7,5,South,2.5,Lalitpur
+Imadol,1197.875,18,28000000,7,3,North East,3,Lalitpur
+Imadol,1219.265625,12,28500000,6,5,East,3,Lalitpur
+Imadol,1129.425,13,28500000,4,4,North West,2.5,Lalitpur
+Imadol,1197.875,13,28500000,9,4,South,3,Lalitpur
+Imadol,1197.875,13,28500000,4,4,North West,3,Lalitpur
+Imadol,1197.87,13,28500000,6,3,South,2.5,Lalitpur
+Imadol,1095.2,20,28500000,7,4,North East,2.5,Lalitpur
+Imadol,1026.75,20,28500000,6,3,East,2.5,Lalitpur
+Imadol,1197.875,13,28700000,5,4,East,2.5,Lalitpur
+Imadol,1369,13,29000000,5,4,North,2.5,Lalitpur
+Imadol,1095.2,13,29500000,8,3,North,2.5,Lalitpur
+Imadol,1369,13,29500000,6,4,South East,3,Lalitpur
+Imadol,1813.925,16,29500000,6,4,East,2.5,Lalitpur
+Imadol,1882.375,12,31000000,6,3,East,3,Lalitpur
+Imadol,1690.715,12,31500000,6,4,North,2.5,Lalitpur
+Imadol,1240.65625,13,31500000,6,4,East,2.5,Lalitpur
+Imadol,1060.975,13,31500000,4,4,West,2.5,Lalitpur
+Imadol,1197.875,13,31500000,4,4,North,3,Lalitpur
+Imadol,1796.8125,13,32500000,6,5,South East,3,Lalitpur
+Imadol,1369,13,32500000,5,4,North,2.5,Lalitpur
+Imadol,1129.425,23,32500000,6,4,West,2.5,Lalitpur
+Imadol,1095.2,13,33000000,5,4,West,2.5,Lalitpur
+Imadol,1095.2,20.5,33000000,6,4,South West,2.5,Lalitpur
+Imadol,1369,13,34000000,4,2,South,2.5,Lalitpur
+Imadol,1197.875,13,34000000,6,4,East,3,Lalitpur
+Imadol,1403.225,13,34500000,5,4,North,2.5,Lalitpur
+Imadol,1369,13,35000000,5,5,West,2.5,Lalitpur
+Imadol,2395.75,12.5,36000000,6,2,North East,2.5,Lalitpur
+Imadol,1711.25,13,36000000,4,1,North,3,Lalitpur
+Imadol,2395.75,20,36000000,5,2,North East,2.5,Lalitpur
+Imadol,2395.75,20,36000000,5,2,North east,2.5,Lalitpur
+Imadol,1711.25,13,37000000,6,6,South West,2.5,Lalitpur
+Imadol,2053.5,18,38500000,7,5,East,3,Lalitpur
+Imadol,1779.7,18,38500000,7,5,East,3,Lalitpur
+Imadol,1163.65,16,39900000,6,3,North West,2.5,Lalitpur
+Imadol,1437.45,13,40000000,6,3,South,2.5,Lalitpur
+Imadol,1625.6875,20,41500000,4,4,East,2.5,Lalitpur
+Imadol,1369,13,42500000,6,4,South,2.5,Lalitpur
+Imadol,1369,14,42500000,3,3,South,2.5,Lalitpur
+Imadol,1326.21,20,42500000,4,4,South east,2.5,Lalitpur
+Imadol,2158,20,42500000,4,4,South East,2.5,Lalitpur
+Imadol,1095.2,14,43000000,4,4,East,2.5,Lalitpur
+Imadol,2395.75,16,45000000,4,3,South,2.5,Lalitpur
+Imadol,1095.2,20,45000000,4,4,East,2.5,Lalitpur
+Imadol,1197.87,13,29500000,5,3,East,2.5,Kathmandu
+Itakhel,1711.25,10,22000000,6,3,East,2.5,Kathmandu
+Italitar,2772.225,20,77500000,5,5,East,3,Kathmandu
+Jadibuti,1411.78,10,18500000,6,4,West,2.5,Kathmandu
+Jadibuti,1112.31,13,29500000,8,4,North,3.5,Kathmandu
+Jagdol,1095.2,13,9000000,5,1,East,2,Kathmandu
+Jarankhu,1095.2,10,16000000,4,3,South West,2.5,Kathmandu
+Jarankhu,1369,12,25000000,5,3,South East,2.5,Kathmandu
+Jarankhu,1711.25,22,28400000,5,5,East,3,Kathmandu
+Jawalakhel,1069.53125,14,39800000,6,5,South East,3,Lalitpur
+Jaya Bageshwori,1369,18,38500000,5,5,North,3,Kathmandu
+Jhamsikhel,1026.75,20,35000000,5,4,South,3,Lalitpur
+Jhamsikhel,1026.75,20,40000000,4,4,South,2.5,Lalitpur
+Jhamsikhel,1026.75,13,41000000,6,5,South East,3,Lalitpur
+Jharuwarashi,1647.078125,12,13000000,3,2,East,3,Lalitpur
+Jharuwarashi,1625.68,12,13000000,3,2,West,2,Lalitpur
+Jharuwarashi,1471.675,20,13000000,3,2,North West,2.5,Lalitpur
+Jhulpakha,1882.375,14,26000000,6,3,North East,2.5,Lalitpur
+Joranku,1197.875,10,15000000,3,3,South,3,Kathmandu
+Joranku,1026.75,8,15900000,5,3,West,3,Kathmandu
+Jorpati,941.1875,8,13000000,5,2,North East,3,Kathmandu
+Jorpati,752.95,10,14300000,3,3,South,2.5,Kathmandu
+Jorpati,752.95,12,14300000,3,3,South,2.5,Kathmandu
+Jorpati,855.625,10,15200000,4,3,East,2.5,Kathmandu
+Jorpati,1026.75,10,16500000,9,3,South West,3,Kathmandu
+Jorpati,1197.875,13,20000000,5,2,East,2,Kathmandu
+Jorpati,1197.875,12,21000000,5,3,South West,3,Kathmandu
+Jorpati,2700,12,21500000,4,3,East,3,Kathmandu
+Jorpati,1026.75,14,22500000,4,3,North West,3,Kathmandu
+Jorpati,1095.2,10,23000000,5,3,South,2.5,Kathmandu
+Jorpati,1369,10,23000000,7,4,East,3,Kathmandu
+jorpati,1219.26,13,27000000,6,3,South east,2.5,Kathmandu
+Jorpati,1796.8125,12,28500000,5,2,South,2,Kathmandu
+Jorpati,1200,13,30000000,8,3,East,3,Kathmandu
+Kapan,1069.53,13,22500000,5,4,East,2.5,Kathmandu
+Kapan,1540.125,13,26000000,5,5,south,2.5,Kathmandu
+Kapan,1369,14,35000000,7,4,South East,2.5,Kathmandu
+Kapan,855.62,10,14500000,4,3,East,2.5,Kathmandu
+Kadaghari,1112.3125,8,13000000,6,2,West,2,Kathmandu
+Kadaghari,941.1875,8,17500000,4,3,South,2.5,Kathmandu
+Kadaghari,1048.140625,13,19000000,6,3,South,3.5,Kathmandu
+Kadaghari,1112.3125,13,21000000,6,4,West,2.5,Kathmandu
+Kadaghari,1283.4375,13,21500000,6,3,East,3,Kathmandu
+Kadaghari,1369,20,23500000,6,4,South East,2.5,Kathmandu
+Kadaghari,1026.75,13,26000000,5,3,South West,2.5,Kathmandu
+Kadaghari,1095.2,13,27000000,6,3,North,2.5,Kathmandu
+Kadaghari,1197.875,13,27000000,6,3,North,3,Kathmandu
+Kadaghari,1369,13,29500000,6,3,South,3,Kathmandu
+Kadaghari,1197.875,13,36000000,6,4,South East,3.5,Kathmandu
+Kageshwori Manohara,705.890625,10,12500000,4,3,East,3,Kathmandu
+Kageshwori Manohara,1026.75,10,15000000,6,3,North,2.5,Kathmandu
+Kageshwori Manohara,1048.140625,13,18500000,6,3,South West,3,Kathmandu
+Kageshwori Manohara,1197.875,20,24000000,6,3,East,2.5,Kathmandu
+Kageshwori Manohara,1026.75,13,25500000,5,3,West,3,Kathmandu
+Kageshwori Manohara,1369,13,26500000,6,3,East,3,Kathmandu
+Kageshwori Manohara,1197.87,13,27000000,6,3,North,2.5,Kathmandu
+Kalanki,1882.37,16,12000000,6,5,North,2.5,Kathmandu
+Kalanki,1369,10,17000000,4,3,North West,2.5,Kathmandu
+Kalanki,1026.75,10,23000000,5,3,South,2.5,Kathmandu
+Kalanki,1437.45,20,25500000,5,4,North East,2,Kathmandu
+Kalanki,1711.25,15.12944333,27500000,7,4,West,3.5,Kathmandu
+Kalanki,1403.225,10,29000000,5,4,South,2.5,Kathmandu
+Kalanki,1925.15,13,33000000,5,3,North,2.5,Kathmandu
+Kalanki,3508.0625,14,37000000,3,3,East,3,Kathmandu
+Kalanki,2139.0625,14,38000000,7,4,East,3,Kathmandu
+Kalanki,1437.45,13,38500000,4,5,North,3,Kathmandu
+Kalanki,1347.609375,12,45000000,6,4,North East,3,Kathmandu
+Kapan,1026.75,10,12500000,3,3,North,3,Kathmandu
+Kapan,684.5,12,12500000,4,3,South West,2.5,Kathmandu
+Kapan,1197.875,12,14000000,2,2,East,3,Kathmandu
+Kapan,1026.75,16,17000000,4,5,West,3,Kathmandu
+Kapan,1625.6875,13,18000000,6,3,South,3,Kathmandu
+Kapan,1197.875,13,18200000,5,5,East,3,Kathmandu
+Kapan,1540.12,13,20000000,8,3,South East,3,Kathmandu
+Kapan,1369,8,22000000,3,3,East,3,Kathmandu
+Kapan,1711.25,14,22000000,6,5,East,3,Kathmandu
+Kapan,1197.875,10,23500000,5,3,South east,2.5,Kathmandu
+Kapan,1796.8125,13,23500000,5,5,South West,3,Kathmandu
+Kapan,1129.425,12,24000000,6,5,West,2.5,Kathmandu
+Kapan,1283.4375,13,24000000,5,3,East,2,Kathmandu
+Kapan,1197.875,13,24000000,7,4,West,3.5,Kathmandu
+Kapan,941.1875,24,24500000,6,2,South,2,Kathmandu
+Kapan,1540.125,12,25000000,7,5,North east,2.5,Kathmandu
+Kapan,1369,14,26000000,6,5,East,3,Kathmandu
+Kapan,1369,14,26000000,4,3,North East,2,Kathmandu
+Kapan,1369,10,26500000,5,3,East,2.5,Kathmandu
+Kapan,1437.45,13,26500000,5,5,East,2.5,Kathmandu
+Kapan,1369,13,27000000,5,5,East,2.5,Kathmandu
+Kapan,1540.125,13,27200000,6,3,East,2.5,Kathmandu
+Kapan,1197.875,11,27500000,5,2,East,2.5,Kathmandu
+Kapan,1369,16,27500000,6,5,East,3,Kathmandu
+Kapan,1390.390625,13,28000000,6,3,North,3,Kathmandu
+Kapan,1369,13,28000000,7,4,East,2.5,Kathmandu
+Kapan,1796.8125,14,28000000,4,3,South East,2,Kathmandu
+Kapan,1369,10,29000000,1,1,South east,3,Kathmandu
+Kapan,2053.5,8,29500000,6,3,East,3,Kathmandu
+Kapan,1732.640625,13,29500000,7,3,South,3,Kathmandu
+Kapan,1471.675,15,30000000,1,1,South East,2.5,Kathmandu
+Kapan,1369,12,31000000,8,3,North,3.5,Kathmandu
+Kapan,1625.6875,12,31000000,5,4,West,2.5,Kathmandu
+Kapan,1369,13,32000000,5,4,South East,2.5,Kathmandu
+Kapan,1813.925,13,32500000,6,3,South East,3,Kathmandu
+Kapan,1540.125,13,33000000,6,3,East,3,Kathmandu
+Kapan,1403.225,13,35500000,5,1,West,2.5,Kathmandu
+Kapan,1711.25,13,36000000,6,5,North,3.5,Kathmandu
+Kapan,2087.725,20,37000000,7,4,East,3.5,Kathmandu
+Kapan,1095.2,12,39000000,6,3,East,3.5,Kathmandu
+Kapan,2053.5,20,40000000,5,5,City,2,Kathmandu
+Kapan,2053.5,20,41000000,1,1,East,3.5,Kathmandu
+Kapan,1540.125,20,42000000,6,4,South West,3.5,Kathmandu
+Kapan,2053.5,14,50000000,6,4,East,2.5,Kathmandu
+Kapan,3080.25,20,52500000,5,5,South East,2.5,Kathmandu
+Kapan,3080.25,20,52500000,5,5,South West,2.5,Kathmandu
+Kapan,1095.2,13,14000000,3,2,East,2.5,Kathmandu
+Karyabinayak,1026.75,20,35000000,3,4,South,2.5,Lalitpur
+Kathmandu,727.28,16,17000000,4,2,West,2.5,Kathmandu
+Kathmandu,1437.45,12,33000000,3,4,North,2.5,Kathmandu
+Katunje,1026.75,20,20500000,4,3,South East,3,Bhaktapur
+Katunje,2738,13,35000000,5,4,North,2.5,Bhaktapur
+Kausaltar,2566.875,15,30000000,5,4,East,3,Bhaktapur
+Kausaltar,1369,20,32500000,6,4,South,3,Bhaktapur
+Kavresthali,1454.5625,13,24000000,5,3,East,2,Kathmandu
+Khadka tole,1026.75,20,14200000,5,2,North East,2.5,Kathmandu
+khahare,1796.8125,14,27000000,6,6,North West,3,Kathmandu
+Kharibot,855.625,18,15000000,5,3,North East,3.5,Lalitpur
+Kharibot,1026.75,10,30000000,6,4,North West,3.5,Lalitpur
+Kharibot,1711.25,16,42500000,7,6,East,3,Kathmandu
+Kharibot,1711.25,24,58000000,5,5,South,3.5,Lalitpur
+Khumaltar,2310.18,10,17500000,8,5,East,3.5,Lalitpur
+Khumaltar,1369,14,19500000,6,5,South,3,Lalitpur
+Khumaltar,1048.14,12,21500000,3,3,South,2.5,Lalitpur
+Khumaltar,1326.21875,10,23000000,4,4,North East,3.5,Lalitpur
+Khumaltar,2053.5,22,35000000,6,4,North East,2.5,Lalitpur
+Khumaltar,1095.2,13,36500000,3,4,East,2.5,Lalitpur
+Khumaltar,1155.09,13,36500000,3,4,East,2.5,Lalitpur
+Khumaltar,1437.45,14,39000000,4,4,South,2.5,Lalitpur
+Khumaltar,1437.45,16,39000000,4,4,East,2.5,Lalitpur
+Khumaltar,1779.7,18,42500000,7,4,West,2.5,Lalitpur
+Khumaltar,1437.45,20,42500000,6,4,East,2.5,Lalitpur
+Khumaltar,3080.25,20,50000000,3,3,South,2.5,Lalitpur
+Khumaltar,1711.25,13,55000000,3,4,South,3,Lalitpur
+Khumaltar,3080.25,13,58500000,5,5,East,3,Lalitpur
+Khumaltar,3422.5,14,60000000,6,2,North,2,Lalitpur
+Khusibu,752.95,13,22500000,6,3,South,2.5,Kathmandu
+Khusibu,1060.975,15,34000000,5,3,East,2.5,Kathmandu
+Khusibu,1437.45,20,41000000,7,7,East,3.5,Kathmandu
+Kirtipur,1283.4375,12,17000000,6,3,South East,3,Kathmandu
+Kirtipur,2053.5,20,18000000,4,4,South East,2,Kathmandu
+Kirtipur,2053.5,20,18000000,4,4,South East,2.5,Kathmandu
+Bafal,1369,14,42000000,4,3,South,2.5,Kathmandu
+Koteshwor,1369,15,30000000,6,3,North,3,Kathmandu
+Koteshwor,1711.25,13,38000000,6,4,West,3,Kathmandu
+Koteshwor,1026.75,10,41500000,1,4,East,3.5,Kathmandu
+Koteshwor,2738,10,48000000,5,4,East,3.5,Kathmandu
+Koteshwor,3148.7,20,60000000,7,4,South East,3.5,Kathmandu
+Koteshwor,3148.7,16,65000000,6,3,South east,3.5,Kathmandu
+Kritipur,2566.87,20,57000000,5,4,East,2,Kathmandu
+Kumarigal,1026.75,14,23000000,5,4,West,3,Kathmandu
+Kumarigal,1095.2,10.5,32000000,8,4,West,3,Kathmandu
+Kupandole,2464.2,13,67500000,6,4,North East,2.5,Lalitpur
+Kupondole,2053.5,13,62000000,6,3,South,3,Lalitpur
+Kusunti,1026.75,13,23000000,4,3,East,2.5,Lalitpur
+Kusunti,1060.975,15,23500000,4,4,North West,2.5,Lalitpur
+Kusunti,1095.2,13,24000000,5,4,South,2.5,Lalitpur
+Kusunti,1026.75,15,26500000,4,3,East,2.5,Lalitpur
+Kusunti,1369,15,27000000,5,3,South,2.5,Lalitpur
+Kusunti,1471.675,20,31000000,4,4,South East,2.5,Lalitpur
+Kusunti,1925.15625,13,38500000,4,4,North West,3,Lalitpur
+Kusunti,1779.7,13,39500000,4,4,East,2.5,Lalitpur
+Kusunti,1437.45,11,40000000,4,4,West,2.5,Lalitpur
+Kusunti,1882.375,13,40500000,4,3,North East,2,Lalitpur
+Kusunti,1779.7,15,42500000,4,4,South West,2.5,Lalitpur
+Lagankhel,1197.87,20,8000000,3,3,North,3,Lalitpur
+Lamatar,1369,20,15500000,3,2,West,2.5,Lalitpur
+Lamatar,1197.87,13,17500000,2,3,South,2.5,Lalitpur
+Lamatar,1369,13,21000000,7,3,West,2.5,Lalitpur
+Lamathumki,1026.75,13,17000000,5,3,South,2,Kathmandu
+Lamathumki,2310.18,13,38000000,9,7,East,3.5,Kathmandu
+Lambagar,1369,11,26000000,6,3,South,2.5,Kathmandu
+Lasuntar,1403.225,13,31000000,4,3,East,2.5,Kathmandu
+Lazimpat,1582,20,17500000,3,3,South,3,Kathmandu
+Lazimpat,752.95,10,22500000,4,2,South,2.5,Kathmandu
+Lazimpat,1369,20,67500000,4,6,North,3.5,Kathmandu
+Liwali,2464.2,13,35000000,3,2,East,2.5,Bhaktapur
+Lokanthali,1026.75,13,28000000,8,4,North,3.5,Bhaktapur
+Lokanthali,2566.875,18,35000000,6,3,North East,3,Bhaktapur
+Lolang,787.175,12,15500000,6,3,West,3.5,Kathmandu
+Lolang,1026.75,10,25500000,8,3,West,2.5,Kathmandu
+Lubhu,1112.3125,11,11000000,3,4,South East,3,Lalitpur
+Lubhu,1775.421875,13,14500000,4,3,South East,2,Lalitpur
+Lubhu,752.95,13,17000000,5,2,North East,2.5,Lalitpur
+Lubhu,752.95,13,17000000,6,2,North East,2.5,Lalitpur
+Lubhu,1197.875,20,17000000,5,3,South,2.5,Lalitpur
+Lubhu,1000,13,19000000,5,3,East,2.5,Lalitpur
+Lubhu,1026.75,13,22000000,5,4,South,2.5,Lalitpur
+Lubhu,1262.046875,20,23500000,6,6,South,2,Lalitpur
+Lubhu,1711.25,13,27500000,4,2,West,3,Lalitpur
+Lubhu,2053.5,16,55000000,7,5,North east,3.5,Lalitpur
+Machhapokhari,1711.25,22,35000000,9,6,East,3.5,Kathmandu
+Machhapokhari,1471.675,20,30000000,9,4,East,3.5,Kathmandu
+Machhapokhari,1471.675,20,32500000,9,4,East,3.5,Kathmandu
+Machhapokhari,2738,10.5,55000000,6,4,South East,3.5,Kathmandu
+Machhegaun,2738,13,45000000,5,4,North East,2.5,Kathmandu
+Madhyapur Thimi,941.18,13,17200000,5,3,North East,3,Bhaktapur
+Madhyapur Thimi,1026.75,12,22000000,4,3,East,2.5,Bhaktapur
+Madhyapur Thimi,1710,13,39800000,8,4,East,3,Bhaktapur
+Madikhatar,2224.62,13,43500000,4,5,North West,3.5,Kathmandu
+Mahadevsthan,1711.25,10,22000000,6,3,South,2.5,Kathmandu
+Mahadevtar,1369,10,24000000,5,3,North,2.5,Kathmandu
+Mahadevtar,3490.95,13,60000000,5,4,South West,3.5,Kathmandu
+Mahalaxmi Nagarpalika,1026.75,13,18000000,4,3,North,3,Lalitpur
+Mahalaxmi Nagarpalika,1283.4375,12,21500000,2,4,North,3,Lalitpur
+Mahalaxmi Nagarpalika,1197.875,13,26000000,6,4,South,2.5,Lalitpur
+Mahalaxmi Nagarpalika,1882.375,15,37500000,5,4,West,3,Lalitpur
+Mahalaxmisthan,1369,13,26500000,4,4,North West,3,Lalitpur
+Maharajgunj,1369,13,24000000,4,2,East,2,Kathmandu
+Maharajgunj,1369,14,24000000,4,2,East,2,Kathmandu
+Maharajgunj,2738,10,48000000,7,5,South,2.5,Kathmandu
+Maharajgunj,2738,10,48000000,7,6,South,3,Kathmandu
+Maharajgunj,2738,14,55000000,4,3,South East,2,Kathmandu
+Maharajgunj,2738,15,56000000,5,5,South,3,Kathmandu
+Maharajgunj,2481.3125,15,62500000,5,6,East,2,Kathmandu
+Maharajgunj,2844.95,14,65000000,8,5,East,2.5,Kathmandu
+Maharajgunj,2481.3125,15,65000000,5,6,East,3,Kathmandu
+Maharajgunj,3080.25,20,67500000,5,5,South East,3,Kathmandu
+Maharajgunj,3080.25,13,70000000,5,5,North,3,Kathmandu
+Maharajgunj,3422.5,13,72500000,6,4,North East,2.5,Kathmandu
+Maharajgunj,3422.5,13,72500000,6,3,North East,2.5,Kathmandu
+Maijubahal,2121.95,8,35000000,5,3,North,3.5,Kathmandu
+Maijubahal,1711.25,20,47500000,7,6,West,3.5,Kathmandu
+Maitidevi,1026.75,8,30000000,5,3,South,2.5,Kathmandu
+Maitidevi,1754.03,13,39000000,9,5,South West,3.5,Kathmandu
+Makalbari,1197.875,10,16000000,3,3,East,2.5,Kathmandu
+Makalbari,752.95,12,17000000,6,5,North East,3.5,Kathmandu
+Makalbari,1069.53125,12,18000000,5,3,East,2.5,Kathmandu
+Makalbari,1026.75,13,19500000,5,3,West,2.5,Kathmandu
+Makalbari,1475.953125,10,20000000,7,3,West,2.5,Kathmandu
+Makalbari,1129.425,12,27500000,8,3,South East,3,Kathmandu
+Makalbari,1369,10,28000000,5,4,South,2.5,Kathmandu
+Malpot,2004.75,18,21000000,5,4,East,2.5,Kathmandu
+Manabahadur Marga,1197.875,12,23000000,3,4,East,2.5,Kathmandu
+Manabahadur Marga,1369,13,27000000,5,5,East,2.5,Kathmandu
+Manabahadur Marga,1437.45,16,33000000,5,4,North East,2.5,Kathmandu
+Manabahadur Marga,1369,20,35000000,5,6,West,3.5,Kathmandu
+Manamaiju,855.625,10,13500000,4,3,East,3,Kathmandu
+Manamaiju,1069.53,10,16000000,5,2,East,2.5,Kathmandu
+Manamaiju,1026.75,14,17000000,5,3,West,3,Kathmandu
+Manamaiju,1437.45,12,25000000,6,3,South West,2.5,Kathmandu
+Manamaiju,1283.4375,14,25500000,7,4,East,3.5,Kathmandu
+Manamaiju,1411.78125,16,26000000,8,4,South,3,Kathmandu
+Manamaiju,1026.75,22,27500000,6,7,South,3.5,Kathmandu
+Manamaiju,1060.975,11,28000000,8,6,East,3.5,Kathmandu
+Manamaiju,1369,12,38000000,9,4,South,3.5,Kathmandu
+Manamaiju,3114.475,13,73500000,4,3,South East,3.5,Kathmandu
+Mandikatar,1048.14,12,22000000,5,5,East,2.5,Kathmandu
+Mandikatar,1711.25,13,28000000,6,4,East,2.5,Kathmandu
+Mandikatar,1112.3125,13,19900000,6,4,South East,3,Kathmandu
+Mandikatar,1112.3125,15,20000000,4,4,East,3,Kathmandu
+Mandikatar,2139.0625,12,22500000,4,3,East,3,Kathmandu
+Mandikatar,120,13,25000000,7,5,West,3,Kathmandu
+Mandikatar,1369,15,27500000,6,3,East,2,Kathmandu
+Mandikatar,1369,13,27600000,7,6,East,3,Kathmandu
+Mandikatar,1711.25,13,27800000,6,3,East,3,Kathmandu
+Mandikatar,1369,20,32500000,8,6,South East,3,Kathmandu
+Mandikatar,1711.25,13,35000000,5,4,East,2,Kathmandu
+Mandikatar,1668.46,13,40000000,5,3,West,2.5,Kathmandu
+Mandikatar,877.01,20,17500000,4,2,West,2.5,Kathmandu
+Mandikatar,1779.7,11,18000000,4,4,East,3.5,Kathmandu
+Mandikatar,1060.975,13,26500000,6,4,West,2.5,Kathmandu
+Mandikatar,1471.675,13,40000000,4,3,West,2.5,Kathmandu
+Mandikatar,2121.95,13,46500000,4,5,North West,3.5,Kathmandu
+Manjushree Marga,1369,13,27500000,5,3,South,2,Lalitpur
+Matatirtha,1437.45,13,29000000,5,6,North West,3,Kathmandu
+Megha City,1095.2,13,29900000,5,5,South East,3.5,Kathmandu
+Mhaipi,1369,20,33000000,4,4,North,3,Kathmandu
+Mid Baneshwor,2395.75,10,50000000,7,4,South East,2,Kathmandu
+Minbhawan,1711.25,13,39000000,4,4,South West,3,Kathmandu
+Muhanpokhari,3080.25,13,30000000,5,4,North,2.5,Kathmandu
+Mulpani,1497,10,12500000,4,3,South East,2.5,Kathmandu
+Mulpani,1000,10,16000000,4,3,East,3.5,Kathmandu
+Mulpani,1026.75,10,16500000,5,3,North,3,Kathmandu
+Mulpani,1369,20,21000000,4,3,East,2,Kathmandu
+Mulpani,1369,10,24500000,6,3,East,2.5,Kathmandu
+Mulpani,1026.75,15,24500000,5,3,East,2.5,Kathmandu
+Mulpani,1754.03125,20,28000000,5,4,North,2.5,Kathmandu
+Mulpani,1711.25,20,30000000,6,3,North,2.5,Kathmandu
+Mulpani,1369,20,31500000,5,4,North,2.5,Kathmandu
+Mulpani,1540.12,20,45000000,4,5,South East,2.5,Kathmandu
+Mulpani,2738,20,49800000,5,6,East,3,Kathmandu
+Mulpani,1369,10,20000000,6,3,North,2.5,Kathmandu
+Nagarjun,3165.8125,15,17500000,5,4,North,3,Kathmandu
+Nagarjun,855.625,13,18500000,5,3,North East,2.5,Kathmandu
+Nagarjun,1240.65625,10,22000000,7,4,South,2.5,Kathmandu
+Nagarjun,1060.975,16,25000000,4,3,North East,2.5,Kathmandu
+Nagarjun,1197.875,16,30000000,4,3,East,2.5,Kathmandu
+Nagarjun,1711.25,13,31500000,5,2,South East,2,Kathmandu
+Nagdhunga,1197.875,15,9500000,4,2,West,2,Kathmandu
+Naikap,941.1875,13,17000000,5,5,East,2,Kathmandu
+Naikap,1060.975,10,20000000,4,2,North,2.5,Kathmandu
+Naikap,1369,13,22500000,5,3,East,3,Kathmandu
+Naikap,1369,14,22500000,5,4,North East,2,Kathmandu
+Naikap,1369,13,26000000,3,3,East,2.5,Kathmandu
+Naikap,1369,13,27500000,5,3,South east,2.5,Kathmandu
+Naikap,1369,13,27500000,6,5,East,2.5,Kathmandu
+Naikap,2374.359375,15,29500000,5,2,South,3,Kathmandu
+Naikap,2738,20,44000000,3,3,East,3,Kathmandu
+Naikap,2806.45,13,47500000,7,6,North,3,Kathmandu
+Nainatole,2566.87,13,42000000,6,2.5,North East,3,Kathmandu
+Nakhipot,855.625,13,20000000,4,3,East,2.5,Lalitpur
+Nakhipot,1060,13,22500000,4,4,West,3,Lalitpur
+Nakhipot,1090.92,16,23000000,4,3,East,2.5,Lalitpur
+Nakhipot,1060.975,15,23500000,4,4,North West,2.5,Lalitpur
+Nakhipot,1095.2,20,25500000,9,7,East,2.5,Lalitpur
+Nakhipot,1197.875,13,26500000,5,4,North,3,Lalitpur
+Nakhipot,1095.2,15,27000000,4,4,South,2.5,Lalitpur
+Nakhipot,1197.875,20,27000000,5,4,South West,2.5,Lalitpur
+Nakhipot,1095.2,13,28000000,5,3,South,2.5,Lalitpur
+Nakhipot,1369,22,28500000,5,5,South,3,Lalitpur
+Nakhipot,1369,22,28500000,8,5,South,3,Lalitpur
+Nakhipot,1026.75,19,29000000,4,4,South,3,Lalitpur
+Nakhipot,2244,20,29000000,4,4,South,2.5,Lalitpur
+Nakhipot,1437.45,20,32000000,5,4,West,2.5,Lalitpur
+Nakhipot,1095.2,20,33000000,6,4,South,2.5,Lalitpur
+Nakhipot,2395.75,13,46000000,6,5,South East,2.5,Lalitpur
+Nakhipot,3058.859375,20,57500000,6,5,West,3,Lalitpur
+Nakhipot,1500,20,57500000,5,6,East,3.5,Lalitpur
+Nakhipot,2806.45,15,60000000,6,6,South East,3,Lalitpur
+Nakhundol,1129.425,18,29000000,3,4,South,2.5,Lalitpur
+Nakhundol,1540.125,13,25000000,3,4,East,2,Lalitpur
+Nakkhu,1026.75,13,18000000,4,5,North,3,Lalitpur
+Nakkhu,1026.75,16,23000000,4,3,South,2.5,Lalitpur
+Nakkhu,1540.125,14,25500000,4,4,North West,2.5,Lalitpur
+Nakkhu,1369,16,26500000,4,4,East,2,Lalitpur
+Nakkhu,1369,16,26500000,4,4,South West,3,Lalitpur
+Nakkhu,1197.875,20,26500000,4,4,South East,2.5,Lalitpur
+Nakkhu,1369,20,28000000,4,5,East,2.5,Lalitpur
+Nakkhu,1540.125,15,29000000,4,5,South,2.5,Lalitpur
+Nakkhu,1369,20,29000000,4,5,East,2.5,Lalitpur
+Nakkhu,1437.45,16.5,31000000,6,5,North,2.5,Lalitpur
+Nakkhu,1369,14.5,32500000,7,4,South West,3,Lalitpur
+Nakkhu,1403.225,15,33000000,4,4,South West,2.5,Lalitpur
+Nakkhu,1403.225,10,36000000,5,3,North East,3,Lalitpur
+Nakkhu,1454.5625,13,36000000,4,5,South West,2,Lalitpur
+Nakkhu,1403.225,13,36000000,4,5,South West,2.5,Lalitpur
+Nakkhu,1454.5625,13,36000000,4,5,South west,2.5,Lalitpur
+Nakkhu,1745.475,12.5,38000000,4,4,West,2.5,Lalitpur
+Nakkhu,1711.25,13,39000000,4,4,East,2.5,Lalitpur
+Nakkhu,1197.875,13,39000000,5,6,East,3.5,Lalitpur
+Nakkhu,1711.25,13,39500000,4,4,East,2.5,Lalitpur
+Nakkhu,1711.25,13,39900000,4,4,East,2,Lalitpur
+Nakkhu,1711.25,18,43000000,5,3,South,2.5,Lalitpur
+Nakkhu,1779.7,13,53000000,4,4,South West,2.5,Lalitpur
+Narayantar,1026.75,12,19000000,6,3,South East,3,Kathmandu
+Narayantar,1026.75,11,24000000,6,3,South,3,Kathmandu
+Narayantar,1437.45,18,27500000,3,4,East,2.5,Kathmandu
+Narayantar,1095.2,13,30000000,6,3,South,3,Kathmandu
+Narayantar,1095.2,16,37500000,7,4,South West,2.5,Kathmandu
+Narayanthan,1369,13,22000000,6,4,East,2.5,Kathmandu
+Narayanthan,1711.25,10,27500000,5,5,East,3.5,Kathmandu
+Narayanthan,1369,13,35000000,5,5,North East,2.5,Kathmandu
+Narayanthan,1129.425,16,42500000,5,5,South,2.5,Kathmandu
+Narayanthan,1500,20,45000000,5,5,East,2.5,Kathmandu
+Narayanthan,2464.2,13,55000000,4,5,North East,2.5,Kathmandu
+Narephate,1369,14,31500000,5,4,West,3,Kathmandu
+Narephate,2053.5,20,33000000,6,4,East,2.5,Kathmandu
+Narephate,1454.5625,12,50000000,5,4,South,3,Kathmandu
+Naxal,1369,13,55000000,3,3,West,2.5,Kathmandu
+Naya Basti,1095.2,10,26000000,5,2,North,2.5,Kathmandu
+Naya Basti,1711.25,10,28000000,7,5,East,3,Kathmandu
+Naya Basti,1711.25,20,35000000,5,4,West,2.5,Kathmandu
+Naya Bazar,1711.25,20,35000000,5,5,East,3,Kathmandu
+Naya Bazar,1026.75,20,40000000,3,4,East,3,Kathmandu
+Naya Naikap,1454.5625,13,29000000,7,4,South East,3.5,Kathmandu
+Naya naikap,1711.25,13,35000000,6,5,South East,3.5,Kathmandu
+Nayabasti,1711.25,10,23500000,1,1,South,2,Kathmandu
+Nayabasti,1069.53,13,26000000,5,4,North east,2.5,Lalitpur
+Nayabasti,1197.87,13,27500000,5,4,East,2.5,Lalitpur
+Nayabasti,1283.43,20,32000000,5,4,West,2.5,Lalitpur
+Nayabasti,1903.76,12,35500000,7,5,East,3.5,Kathmandu
+Nayabasti,1433.17,20,38500000,6,5,East,2.5,Kathmandu
+Nayabasti,884.04,20,35000000,3,4,East,3,Kathmandu
+Nayapati,1711.25,20,22500000,4,3,East,2,Kathmandu
+Nayapati,1283.4375,22,26000000,6,3,South East,3,Kathmandu
+Imadol,1026.75,13,23500000,4,4,South,2.5,Lalitpur
+Golfutar,1026.75,15,19700000,4,4,North East,3.5,Kathmandu
+Golfutar,1197.87,13,22000000,6,3,North East,2.5,Kathmandu
+Grande Villa,1048.14,13,26000000,3,4,West,2.5,Kathmandu
+Grande Villa,1689.85,13,22000000,5,4,North West,2.5,Kathmandu
+Har har mahadev,1475.95,13,18500000,6,3,North West,2.5,Kathmandu
+Himshikhar,1197.87,13,17500000,6,4,South West,3.5,Kathmandu
+New Buspark,1437.45,20,32000000,8,5,East,3,Kathmandu
+Suncity,941.18,23,23000000,2,3,East,2.5,Kathmandu
+Nepaltar,1026.75,11,21600000,8,4,North,3.5,Kathmandu
+Nepaltar,1369,11,22500000,6,7,East,3.5,Kathmandu
+Nepaltar,1197.875,13,25000000,8,5,East,3,Kathmandu
+New Baneshwor,376.475,20,16800000,3,3,East,3.5,Kathmandu
+Ochu Height,1026.75,13,23000000,4,3,West,2.5,Lalitpur
+Ochu Height,1095.2,13,24500000,5,4,South,2.5,Lalitpur
+Ochu Height,1095.2,13,27000000,5,3,South,2.5,Lalitpur
+Ochu Height,1129.425,16,33000000,6,4,South,2.5,Lalitpur
+Ochu Height,2053.5,20,35000000,6,4,West,2.5,Lalitpur
+Ochu Height,1711.25,13,41000000,8,6,East,3.5,Lalitpur
+Old Baneshwor,1369,13,39000000,6,5,East,3,Kathmandu
+Om chowk,983.96,13,14500000,4,3,West,2.5,Kathmandu
+Pabitra basti,900,10,25000000,5,3,East,2.5,Kathmandu
+Padamsal,1095.2,13,24000000,5,4,West,3,Kathmandu
+Padma Colony,1711.25,9,20000000,3,2,North East,3,Kathmandu
+Paiyuntar,1437.45,12,22000000,6,4,East,2.5,Kathmandu
+Paiyuntar,1471.675,12,30000000,5,4,West,2.5,Kathmandu
+Kapan,1625.68,10,26000000,2,2,North,2,Kathmandu
+Panchetaar,1625.6875,20,32000000,5,4,East,2.5,Kathmandu
+Pandhara Chowk,1403.225,20,24500000,4,4,North,2.5,Kathmandu
+Panga,1026.75,10,13500000,4,3,South,3.5,Kathmandu
+Panipokhari,1779.7,20,54000000,4,5,East,3,Kathmandu
+Panipokhari,1693.2724,20,67500000,4,1,North,3.5,Kathmandu
+Pasikot,1026.75,14,16800000,5,5,North East,3,Kathmandu
+Pasikot,1197.875,12,17500000,6,2,North,3,Kathmandu
+Pasikot,1197.87,15,22500000,6,5,South east,3,Kathmandu
+Pasikot,1369,20,24000000,5,2,South East,2.5,Kathmandu
+Pasikot,1369,13,24500000,6,5,South East,2.5,Kathmandu
+Pasikot,1711.25,13,28000000,8,4,South,3.5,Kathmandu
+Pasikot,1796.8125,14,28000000,8,3,East,3,Kathmandu
+Pasikot,1369,20,30000000,5,4,West,3,Kathmandu
+Pasikot,1471.675,20,30000000,5,4,South,2.5,Kathmandu
+Pasikot,1779.7,20,30000000,4,5,North East,2.5,Kathmandu
+Pasikot,1411.78,12,31000000,5,2,South east,2.5,Kathmandu
+Pasikot,1300.55,13,31000000,5,3,East,2.5,Kathmandu
+Pasikot,2053.5,13,32000000,5,4,South east,2.5,Kathmandu
+Pasikot,1882.375,20,32000000,4,5,North,2.5,Kathmandu
+Pasikot,1745.475,10,32500000,5,2,East,3.5,Kathmandu
+Pasikot,1754.03,14,32500000,6,5,East,2.5,Kathmandu
+Pasikot,2053.5,13,33000000,6,4,South East,2.5,Kathmandu
+Pasikot,1711.25,13,33500000,5,4,South,2.5,Kathmandu
+Pasikot,1369,13,34000000,5,4,South East,2.5,Kathmandu
+Pasikot,1711.25,13,34000000,6,5,North East,2.5,Kathmandu
+Pasikot,1754.03,14,34000000,5,5,East,2.5,Kathmandu
+Pasikot,1711.25,12,35000000,7,6,South,3,Kathmandu
+Pasikot,1369,13,35000000,5,4,South East,2.5,Kathmandu
+Pasikot,1711.25,13,36000000,5,4,North,2.5,Kathmandu
+Pasikot,1745.475,14,38000000,5,3,South,2.5,Kathmandu
+Pasikot,1745.475,14,38000000,5,3,South West,2.5,Kathmandu
+Pasikot,2738,15,42500000,4,5,North east,2.5,Kathmandu
+Pasikot,2738,15,45000000,4,3,North East,2.5,Kathmandu
+Pasikot,2429.975,18.5,53500000,7,5,South West,3.5,Kathmandu
+Pasikot,1711.25,13,36000000,6,5,North east,2.5,Kathmandu
+Pepsicola,1112.3125,13,13500000,4,3,South East,3,Kathmandu
+Pepsicola,855.625,13,15000000,4,2,North West,2,Kathmandu
+Pepsicola,1026.75,13,16000000,3,3,West,3,Kathmandu
+Pepsicola,1112.3125,13,21500000,6,6,East,2.5,Kathmandu
+PepsiCola,1197.875,10,22000000,6,4,East,3,Kathmandu
+Pepsicola,1133.7,20,22000000,6,4,West,2.5,Kathmandu
+Pepsicola,1197.875,11,23000000,5,5,North East,3,Kathmandu
+Pepsicola,1095.2,20,24000000,6,3,East,2.5,Kathmandu
+Pepsicola,752.95,20,24000000,4,4,East,3,Kathmandu
+Pepsicola,1026.75,18,25000000,5,4,North East,2.5,Kathmandu
+Pepsicola,1454.5625,13,25500000,6,4,West,2.5,Kathmandu
+Pepsicola,1026.75,10,26000000,8,4,North,3.5,Kathmandu
+Pepsicola,1711.25,18,32500000,5,4,South East,3,Kathmandu
+Pepsicola,2121.95,20,55500000,6,6,South,3.5,Kathmandu
+Pepsicola,3000,20,67500000,5,4,South,2.5,Kathmandu
+Phutung,1497.34,12,25000000,5,4,East,2.5,Kathmandu
+Phutung,1437.45,18,26000000,5,3,West,3,Kathmandu
+Phutung,1369,20,29900000,4,4,West,2.5,Kathmandu
+Pingalasthan,1711.25,20,45000000,7,7,South East,3.5,Kathmandu
+Purano Naikap,1711.25,10,30000000,5,4,West,2.5,Kathmandu
+Purano Naikap,2806.45,13,48000000,7,5,North East,3,Kathmandu
+Radhe Radhe,2738,14.5,62500000,6,3,South East,2.5,Bhaktapur
+Rajkulo,1060.975,13,20800000,5,5,North,3,Lalitpur
+Rajkulo,1026.75,13,28100000,5,4,North,3,Lalitpur
+Ramkot,1369,20,15500000,4,2,North,2,Kathmandu
+Ramkot,1369,16,16800000,5,2,West,2.5,Kathmandu
+Ramkot,1129.425,10,17500000,3,3,South East,2.5,Kathmandu
+Ramkot,1711.25,20,17500000,4,2,North,2,Kathmandu
+Ramkot,1197.875,13,19000000,2,4,South,2.5,Kathmandu
+Ramkot,1326.21875,20,19000000,4,3,East,3,Kathmandu
+Ramkot,1129.425,10,23000000,5,4,North West,2.5,Kathmandu
+Raniban,1540.125,10,23500000,5,3,West,2.5,Kathmandu
+Raniban,1900,20,28000000,6,4,South,2.5,Kathmandu
+Raniban,1026.75,13,30000000,3,3,West,2,Kathmandu
+Raniban,1437.45,14,31000000,6,5,South West,3.5,Kathmandu
+Raniban,2053.5,14,33500000,7,3,East,3,Kathmandu
+Raniban,1026.75,20,36000000,6,5,East,2.5,Kathmandu
+Raniban,1711.25,13,47500000,5,5,South,3,Kathmandu
+Ratomate,941.1875,10,13000000,4,3,West,2.5,Kathmandu
+Battisputali,1540.125,20,33000000,6,1,West,3.5,Kathmandu
+Rudreshwor,1711.25,13,35000000,5,5,West,2.5,Kathmandu
+Rudreshwor,1711.25,18,37500000,7,3,North West,2.5,Kathmandu
+Rudreshwor,2464.2,14,42000000,5,5,South,2.5,Kathmandu
+Rudreshwor,2738,13,42500000,5,5,East,2.5,Kathmandu
+Rudreshwor,2738,20,45000000,5,5,East,3,Kathmandu
+Rudreshwor,2738,16,48000000,4,3,north east east,2.5,Kathmandu
+Rudreshwor,1745.475,13,49000000,5,6,East,2.5,Kathmandu
+Rudreshwor,1745.475,13,50000000,4,5,South,2.5,Kathmandu
+Rudreshwor,1745.475,16,50000000,4,5,East,3,Kathmandu
+Rudreshwor,3080.25,20,55000000,4,5,South east,2.5,Kathmandu
+Rudreshwor,2053.5,15,57500000,5,5,South,2.5,Kathmandu
+Rudreshwor,2053.5,13,59500000,5,5,South,3,Kathmandu
+Rudreshwor,2156.175,14,68000000,5,4,East,2.5,Kathmandu
+Sai Baba chowk,1369,13,25000000,6,3,East,2.5,Kathmandu
+Sainbu,855.625,13,21500000,5,3,West,2.5,Lalitpur
+Sainbu,1369,15,30000000,4,2.5,North,3,Lalitpur
+Sainbu,1026.75,13,25000000,5,5,East,3.5,Lalitpur
+Sainbu,1095.2,15,35000000,4,5,South East,3,Lalitpur
+Sainbu,1369,18,35000000,7,4,South East,3,Lalitpur
+Sainbu,1745.475,14,36500000,5,3,North East,2.5,Lalitpur
+Sainbu,1967.93,16,47500000,7,8,North East,3.5,Kathmandu
+Sallaghari,1369,13,25000000,6,3,North West,2.5,Bhaktapur
+Sallaghari,1369,13,25000000,6,3,North west,2.5,Bhaktapur
+Samakhusi,1369,13,33000000,6,5,North,2.5,Kathmandu
+Samakhusi,1711.25,16.5,35000000,4,3,South West,2.5,Kathmandu
+Samakhusi,855.625,16,20500000,5,4,South,3,Kathmandu
+Samakhusi,1026.75,13,22500000,9,4,South,3,Kathmandu
+Samakhusi,1454.5625,13,23000000,6,5,North West,3,Kathmandu
+Samakhusi,1026.75,10,25500000,6,4,North,3.5,Kathmandu
+Samakhusi,1369,13,27500000,6,3,West,3,Kathmandu
+Samakhusi,1369,15.12944333,30000000,6,6,East,2.5,Kathmandu
+Samakhusi,1129.425,15,30500000,5,4,West,3,Kathmandu
+Samakhusi,1369,13,32000000,6,5,East,2.5,Kathmandu
+Samakhusi,1369,15,32000000,6,6,East,3,Kathmandu
+Samakhusi,1369,16,32000000,6,4,East,2,Kathmandu
+Samakhusi,1026.75,13,34500000,4,4,East,3,Kathmandu
+Samakhusi,1026.75,13,34500000,4,4,East,2.5,Kathmandu
+Samakhusi,1711.25,15,35000000,6,3,East,2,Kathmandu
+Samakhusi,1369,15,44000000,5,6,East,3,Kathmandu
+Samakhusi,2395.75,14,55000000,5,6,South,3,Kathmandu
+Samakhusi,2395.75,14,55000000,5,4,South East,2,Kathmandu
+Samakhusi,2395.75,20,55000000,7,7,North,3,Kathmandu
+Samakhusi,2395.75,20,55000000,6,5,East,2.5,Kathmandu
+Samakhusi,1711.25,10,45000000,7,4,East,2.5,Kathmandu
+Sampang Chowk,787.175,13,23000000,5,5,South,2.5,Lalitpur
+Sampang Chowk,1437.45,13,38000000,7,4,North East,2.5,Lalitpur
+Sanagau,962.57,13,13500000,5,3,West,2.5,Lalitpur
+Sanagau,1026.75,20,21500000,4,3,North east,2.5,Lalitpur
+Sanagaun,1069.53,12,19900000,8,4,East,2.5,Lalitpur
+Sanagaun,1026.75,11.5,20400000,4,3,South West,2.5,Lalitpur
+Sanagaun,1967.93,13,28000000,5,3,East,2.5,Lalitpur
+Sanagaun,1403.225,14.5,30500000,5,5,North East,3,Lalitpur
+Sanagaun,1369,13,32500000,5,4,East,2.5,Lalitpur
+Sanagaun,1437.45,13,33000000,8,6,South East,2.5,Lalitpur
+Sanagaun,1711.25,20,33500000,7,4,East,2.5,Lalitpur
+Sanobharyang,1732.64,20,29000000,7,4,West,2.5,Kathmandu
+Sanepa,1026.75,10,41000000,6,5,South east,2.5,Lalitpur
+Sanepa,1411.78,12,30000000,6,5,East,2.5,Lalitpur
+Sanepa,1369,13,30000000,4,4,North,3,Lalitpur
+Sanepa,1095.2,20,30000000,4,3,East,2.5,Lalitpur
+Sanepa,1540.125,12,32500000,6,4,East,3,Lalitpur
+Sanepa,855.625,13,35000000,3,2,South East,3,Lalitpur
+Sanepa,1711.25,10,45000000,5,4,South East,2.5,Lalitpur
+Sanepa,1711.25,13,63500000,5,6,North East,2.5,Lalitpur
+Sanepa,2700,14,63500000,5,5,North West,2.5,Lalitpur
+Sanepa,1711.25,16,65000000,6,5,North East,2.5,Lalitpur
+Sanepa,2738,10,68000000,6,6,South East,2.5,Lalitpur
+Sanepa,3080.25,13,77000000,6,4,East,2.5,Kathmandu
+Sanepa,3148.7,16,77500000,4,4,East,2.5,Lalitpur
+sanepa sanchal,3080.25,20,75000000,5,2,South,2,Lalitpur
+Sankhamul,1240.65625,12,35000000,7,3,West,2.5,Kathmandu
+Sankhamul,1026.75,13,37000000,6,3,East,3.5,Kathmandu
+Sanobharyang,1026.75,15,23500000,5,3,East,3,Kathmandu
+Sanobharyang,2053.5,13,50000000,5,3,South East,3,Kathmandu
+Sano Gaun,1369,20,21500000,5,2,East,2,Lalitpur
+Sano Gaun,1454.5625,20,22000000,3,4,South,3,Lalitpur
+Sano thimi,1095.2,16,21500000,5,3,North West,3.5,Bhaktapur
+Sano Thimi,1197.875,20,24500000,5,3,North,2.5,Bhaktapur
+Sano thimi,1369,15,49000000,6,5,East,2.5,Bhaktapur
+Sanobharyang,1796.8125,14,22000000,8,2,East,2,Kathmandu
+Sanobharyang,1112.3125,14,22500000,5,3,East,3,Kathmandu
+Sanobharyang,1112.3125,14,22500000,6,5,East,3,Kathmandu
+Sanobharyang,1197.875,13,23000000,6,4,West,2.5,Kathmandu
+Sanobharyang,1112.3125,14,23000000,5,3,East,3,Kathmandu
+Sanobharyang,1347.609375,16,31500000,7,2,North,2,Kathmandu
+Sanobharyang,1454.5625,16,36000000,7,3,West,3,Kathmandu
+Sanobharyang,1903.76,20,42500000,6,7,South West,3.5,Kathmandu
+Sanobharyang,1711.25,20,45000000,4,5,North,2.5,Kathmandu
+Sanogaun,1197.875,13,18500000,5,3,East,2.5,Lalitpur
+Sanothimi,1625.68,13,38000000,6,4,West,2.5,Bhaktapur
+Saraswotinagar,2395.75,13,40000000,4,4,North East,2.5,Kathmandu
+Satdobato,1048.140625,16,20000000,5,4,North,3,Lalitpur
+Satdobato,2053.5,10,25000000,5,3,North,2.5,Lalitpur
+Satdobato,1026.75,13,26000000,4,3,East,2.5,Lalitpur
+Satdobato,1625.6875,10,32500000,5,4,South East,3,Lalitpur
+Satdobato,2087.725,13,45000000,5,5,West,2.5,Lalitpur
+Satdobato,3422.5,20,70000000,3,3,East,2,Lalitpur
+Sattalle,1796.81,12,25000000,4,2,North,2.5,Kathmandu
+Satungal,1240.65625,13,18000000,5,4,East,2.5,Kathmandu
+Satungal,1026.75,13,21000000,7,3,South East,3,Kathmandu
+Satungal,1732.64,16,22500000,4,3,east,2.5,Kathmandu
+Satungal,1197.875,14,23000000,6,4,North East,3.5,Kathmandu
+Satungal,1369,20,29000000,8,5,North East,3.5,Kathmandu
+Satungal,1437.45,13,29500000,4,4,North West,2.5,Kathmandu
+Setipakha,787.175,13,22500000,4,4,East,2.5,Lalitpur
+Setipakha,1369,13,26500000,8,8,West,3,Lalitpur
+Shankhamul,1026.75,10,31500000,4,3,South East,3,Kathmandu
+Shankhamul,1369,13,40000000,7,3,West,2.5,Kathmandu
+Shankhamul,1095.2,13,45000000,8,8,South,2.5,Kathmandu
+Shankhamul,2566.87,20,68000000,7,3,North East,3.5,Kathmandu
+Shankhamul,2121.95,23,68000000,7,3,North East,3.5,Kathmandu
+Shantinagar,1711.25,15,33000000,5,3,West,2.5,Kathmandu
+Shantinagar,2652.4375,13,43500000,7,3,West,3,Kathmandu
+Shantinagar,2498.425,13,43500000,7,3,West,3,Kathmandu
+Shantinagar,3251.375,20,70000000,4,3,East,3,Kathmandu
+Sheetal tole,1197.87,13,19000000,5,3,South,2.5,Lalitpur
+Shital Height,1026.75,13,19500000,4,4,North,2.5,Lalitpur
+Shital Height,1369,20,29000000,4,4,East,2.5,Lalitpur
+Siddhartha Colony,2395.75,20,57500000,4,5,South,2.5,Kathmandu
+Siddhartha Colony,2459.92,20,59000000,4,5,South east,2.5,Kathmandu
+Thimi,1369,20,23000000,5,3,North east,3,Bhaktapur
+Siddipur,1026.75,20,22000000,4,3,North,2.5,Lalitpur
+Sinamangal,2053.5,13,55100000,7,5,East,3,Kathmandu
+Sipadol,1197.875,10,19000000,7,3,East,3,Bhaktapur
+Sipadol,1026.75,20,19000000,7,4,West,3.5,Bhaktapur
+Sipadol,1197.875,10,19500000,6,3,East,3,Bhaktapur
+Sipadol,1403.225,12,23000000,5,3,South West,2.5,Bhaktapur
+Sipadol,1561.51,12,23000000,5,3,South west,2.5,Bhaktapur
+Sipadol,1540.125,20,37500000,7,4,North,3,Bhaktapur
+Sipadol,2053.5,15,48000000,7,5,West,3.5,Bhaktapur
+Sirutar,1133.7,16,25000000,4,4,West,2.5,Bhaktapur
+Sirutar,1711.25,13,26000000,3,3,South West,2,Bhaktapur
+Sita Pakha,1026.75,13,25000000,4,4,East,2.5,Lalitpur
+Sitapaila,1112.3125,13,12000000,4,2,North East,2,Kathmandu
+Sitapaila,1095.2,10,14500000,3,3,East,2.5,Kathmandu
+sitapaila,855.625,13,15500000,5,3,South,3,Kathmandu
+Sitapaila,1200,8,16000000,3,2,North,2,Kathmandu
+Sitapaila,1048.14,15,17000000,4,2,east,2.5,Kathmandu
+Sitapaila,1112.3125,16,17500000,5,4,North,2.5,Kathmandu
+Sitapaila,1112.3125,13,18000000,4,4,North,3,Kathmandu
+Sitapaila,1283.4375,10,18500000,3,3,South,2,Kathmandu
+Sitapaila,1283.4375,13,20500000,4,4,East,2.5,Kathmandu
+Sitapaila,1197.875,13,21000000,5,2,South,2,Kathmandu
+Sitapaila,1369,14,21000000,6,5,East,2.5,Kathmandu
+Sitapaila,1283.43,13,21500000,4,4,East,2.5,Kathmandu
+Sitapaila,1026.75,14,22000000,3,4,East,3,Kathmandu
+Sitapaila,787.175,15,22000000,7,3,North West,3.5,Kathmandu
+Sitapaila,1060.975,18,22500000,4,3,North,2.5,Kathmandu
+Sitapaila,752.95,13,23500000,3,3,South East,2.5,Kathmandu
+Sitapaila,1240.65625,13,23500000,7,3,East,2,Kathmandu
+Sitapaila,1369,13,24000000,4,4,East,2.5,Kathmandu
+Sitapaila,1369,14,24000000,8,5,West,3,Kathmandu
+Sitapaila,1437.45,16,24000000,4,4,North,2.5,Kathmandu
+Sitapaila,1369,20,25000000,6,3,North,3.5,Kathmandu
+Sitapaila,1390.39,13,25300000,5,5,East,2.5,Kathmandu
+Sitapaila,1475.953125,13,25500000,5,4,East,3,Kathmandu
+Sitapaila,1369,13,25500000,6,6,East,3,Kathmandu
+Sitapaila,85.5625,14,26000000,8,5,West,3,Kathmandu
+Sitapaila,1403.225,16.5,26000000,5,3,South,2.5,Kathmandu
+Sitapaila,1129.425,20,26500000,6,4,West,2.5,Kathmandu
+Sitapaila,1403.225,13,27000000,4,3,East,2.5,Kathmandu
+Sitapaila,1540.125,13,27000000,5,4,North,2.5,Kathmandu
+Sitapaila,1095.2,20,27000000,4,4,South,2.5,Kathmandu
+Sitapaila,1090.92,12,27500000,4,4,North east,2.5,Kathmandu
+Sitapaila,1711.25,10,29000000,4,4,West,2.5,Kathmandu
+Sitapaila,2053.5,10,29000000,6,4,East,3,Kathmandu
+Sitapaila,1711.25,13,29500000,5,5,North,2.5,Kathmandu
+Sitapaila,1437.45,16,29500000,4,3,South,2.5,Kathmandu
+Sitapaila,2395.75,20,29500000,4,3,South East,3,Kathmandu
+Sitapaila,1369,11,30000000,6,4,North West,2,Kathmandu
+Sitapaila,1437.45,12,30000000,6,3,North,2.5,Kathmandu
+Sitapaila,1197.875,13,30000000,2,2,East,2.5,Kathmandu
+Sitapaila,2395.75,18,30500000,6,5,east,2.5,Kathmandu
+Sitapaila,1369,13,31000000,5,4,South East,2.5,Kathmandu
+Sitapaila,1711.25,13,31500000,5,5,East,2.5,Kathmandu
+Sitapaila,1818.2,16,31500000,6,5,East,2.5,Kathmandu
+Sitapaila,2464.2,22,35000000,5,5,South,2.5,Kathmandu
+Sitapaila,1500,10,35500000,6,4,East,2.5,Kathmandu
+Sitapaila,1369,12,35500000,6,4,East,3,Kathmandu
+Sitapaila,1437.45,20,36500000,4,3,North East,2.5,Kathmandu
+Sitapaila,2395.75,13,37500000,4,3,South,2.5,Kathmandu
+Sitapaila,2156.175,11.5,38000000,7,7,East,3.5,Kathmandu
+Sitapaila,2053.5,13,38000000,6,6,East,2.5,Kathmandu
+Sitapaila,2121.95,20,47000000,5,3,West,2.5,Kathmandu
+Sitapaila,2806.45,12,49500000,8,7,South East,3.5,Kathmandu
+Sitapaila,2203.234375,20,53600000,3,4,North,3.5,Kathmandu
+Sitapaila,2806.45,13,54000000,1,1,South West,2.5,Kathmandu
+Sitapaila,3490.95,20,67400000,4,3,North West,2,Kathmandu
+Sitapaila,1347.6,10,17500000,3,3,South West,2.5,Kathmandu
+Soltidobato,2400,13,30000000,3,3,South,2.5,Kathmandu
+Sovahity,1026.75,10,20000000,4,3,South,2.5,Lalitpur
+Srijana Chowk,1129.425,8,16000000,5,3,East,2.5,Kathmandu
+Srijananagar,1711.25,18,30000000,5,5,West,2.5,Bhaktapur
+Srijananagar,1095.2,20,22500000,7,3,North West,3,Bhaktapur
+SS college,1197.87,13,27499999,7,3,North east,3,Bhaktapur
+Subarnachowk,1500,10,29500000,8,3,South,3,Bhaktapur
+Changunarayan,1090.92,10,21000000,8,3,East,3.5,Bhaktapur
+Sukedhara,1026.75,20,16000000,6,3,East,2.5,Kathmandu
+Sukedhara,1112.3125,24,19000000,3,2,South West,2,Kathmandu
+Sukedhara,1026.75,14,21000000,6,3,North,2,Kathmandu
+Sukedhara,1604.29,15,26000000,6,4,East,2,Kathmandu
+Sukedhara,1711.25,13,29800000,5,5,West,2.5,Kathmandu
+Sukedhara,1454.5625,15,30000000,6,5,East,3,Kathmandu
+Sukedhara,1754.03,13,31800000,5,5,south east,2.5,Kathmandu
+Sukedhara,1369,12,32500000,6,4,South East,2.5,Kathmandu
+Sukedhara,1283.4375,18,32500000,4,4,East,2,Kathmandu
+Sukedhara,2010.71,12,35000000,9,4,north east east,3.5,Kathmandu
+Sukedhara,1369,13,35000000,6,4,East,2.5,Kathmandu
+Sukedhara,1369,14,39000000,6,4,South,2.5,Kathmandu
+Sukedhara,2053.5,12,40000000,5,3,South East,2.5,Kathmandu
+Sukedhara,2053.5,13,42000000,5,5,East,2.5,Kathmandu
+Sukedhara,2053.5,14,42000000,5,5,East,3,Kathmandu
+Sukedhara,1711.25,12,42500000,5,3,East,2,Kathmandu
+Sukedhara,2395.75,12,45000000,5,3,East,2.5,Kathmandu
+Sukedhara,2395.75,15,45000000,4,3,East,2.5,Kathmandu
+Sukedhara,2053.5,20,45000000,6,6,East,3,Kathmandu
+Sukedhara,1369,12,49500000,1,3,North,2,Kathmandu
+Sukedhara,2395.75,12,70000000,4,3,East,2.5,Kathmandu
+Sukedhara,1369,20,45000000,6,4,North,2.5,Kathmandu
+Sukedhara,2395.75,12,70000000,4,3,East,2.5,Kathmandu
+Sunakothi,1711.25,13,22500000,3,3,South East,2.5,Lalitpur
+Sunakothi,2053.5,13,35000000,3,3,South East,2.5,Lalitpur
+Sunakothi,1369,18,35000000,3,3,East,2,Lalitpur
+Sunakothi,1403.225,20,35000000,5,4,East,2.5,Lalitpur
+Sunakothi,2053.5,20,36000000,3,3,West,2.5,Lalitpur
+Sunakothi,1711.25,20,37500000,3,4,North East,2.5,Lalitpur
+Sunakothi,2053.5,15,42500000,3,3,East,2.5,Lalitpur
+Sunakothi,2053.5,20,42500000,3,3,South East,2.5,Lalitpur
+Sundarbasti,1095.2,13,33800000,4,3,East,2.5,Kathmandu
+Sundarbasti,1711.25,13,39000000,5,3,North East,2.5,Kathmandu
+Sunderbasti,1197.875,13,19500000,5,3,East,3,Kathmandu
+Sunderbasti,1796.8125,12,26500000,6,5,East,3,Kathmandu
+Sunderbasti,1775.421875,13,27500000,6,4,South East,3,Kathmandu
+Sunderbasti,1967.9375,14,31500000,5,4,East,2,Kathmandu
+Suryadarshan Height,1625.68,13,30000000,7,4,West,3.5,Kathmandu
+Suryabinayak,1026.75,10,20200000,7,4,East,3,Bhaktapur
+Suryabinayak,1026.75,13,21500000,6,5,East,3.5,Bhaktapur
+Suryabinayak,3422.5,13,55100000,5,4,East,2.5,Bhaktapur
+Suryadanda,1711.25,18,36100000,7,3,South,3.5,Kathmandu
+Suryadarshan Height,1471.675,15,30000000,6,3,West,3.5,Kathmandu
+Swayambhu,1112.3125,13,20600000,5,3,North East,3,Kathmandu
+Swayambhu,1112.3125,18,21000000,4,2,South,2,Kathmandu
+Swayambhu,1026.75,13,23500000,6,5,East,3,Kathmandu
+Swayambhu,1369,12,34000000,6,3,South,3,Kathmandu
+Swayambhu,1860.984375,12,37000000,8,5,South,3,Kathmandu
+Swayambhu,2395.75,14,39000000,5,5,East,3,Kathmandu
+Swayambhu,1711.25,13,47500000,8,5,East,3.5,Kathmandu
+Swayambhu,2053.5,13,50000000,5,3,South,2,Kathmandu
+Syuchatar,1471.675,13,19500000,4,3,East,2.5,Kathmandu
+Syuchatar,1026.75,13,20500000,6,3,South,2.5,Kathmandu
+Syuchatar,1454.5625,16,21000000,5,4,West,2,Kathmandu
+Syuchatar,406.421875,14,22000000,4,2,North East,2,Kathmandu
+Syuchatar,1095.2,14,22000000,4,2,North,2,Kathmandu
+Syuchatar,1283.4375,13,22400000,6,4,North East,3,Kathmandu
+Syuchatar,1882.37,10,22500000,5,3,East,2.5,Kathmandu
+Syuchatar,1026.75,10,23000000,4,2,North West,3,Kathmandu
+Syuchatar,1369,13,24500000,7,4,East,2,Kathmandu
+Syuchatar,1026.75,13,24800000,5,4,South,3,Kathmandu
+Syuchatar,1095.2,13,25000000,6,2,South,2.5,Kathmandu
+Syuchatar,1369,13,25000000,7,5,North East,3,Kathmandu
+Syuchatar,1711.25,16,25000000,4,3,East,2.5,Kathmandu
+Syuchatar,1925.15,10,25500000,4,2,West,2.5,Kathmandu
+Syuchatar,1540.125,10,30000000,1,5,East,3.5,Kathmandu
+Syuchatar,1369,10,37000000,6,4,North,3,Kathmandu
+Syuchatar,1369,18,38000000,4,3,South East,2.5,Kathmandu
+Tahachal,1176.48,8,15500000,1,1,East,2,Kathmandu
+Tahachal,1540.125,10,39500000,1,1,East,3,Kathmandu
+Tahachal,2074.89,8,52500000,1,1,East,2.5,Kathmandu
+Tahachal,1882.375,15,55000000,7,8,North,2,Kathmandu
+Tahachal,1403.225,20,56500000,4,5,North,2.5,Kathmandu
+Tarkeshwor,1026.75,10,17000000,5,2,East,2,Kathmandu
+Tarkeshwor,1561.515625,12,25000000,5,4,East,3,Kathmandu
+Tarkeshwor,1197.875,13,36000000,6,4,North West,3,Kathmandu
+Tathali,1437.45,12.5,19000000,8,3,North West,3,Bhaktapur
+Taukhel,1437.45,13,35000000,5,5,West,2,Lalitpur
+Taulung,2395.75,20,34500000,4,4,East,2.5,Kathmandu
+Taulung,2224.625,20,58000000,5,5,South east,2.5,Kathmandu
+Taulung,2738,20,67500000,6,6,South,2.5,Kathmandu
+Tenzing Chowk,2806.45,12,65500000,6,4,South East,2.5,Kathmandu
+Thado Dhunga,3080.25,20,77500000,5,4,South West,2.5,Lalitpur
+Thaiba,1069.53125,20,17000000,4,3,North,3,Lalitpur
+Thaiba,1129.425,20,18000000,4,3,South,2.5,Lalitpur
+Thaiba,1390.390625,13,19000000,4,4,East,3,Lalitpur
+Thaiba,1454.56,13,19000000,4,4,east,2.5,Lalitpur
+Thaiba,1026.75,20,19000000,3,2,South,2.5,Lalitpur
+Thaiba,1026.75,20,20000000,3,2,South,3,Lalitpur
+Thaiba,1095.2,13,24000000,4,3,East,2.5,Lalitpur
+Thaiba,1369,20,28500000,4,5,South,3,Lalitpur
+Thaiba,2053.5,20,48500000,4,4,North East,2.5,Lalitpur
+Thaiba,1779.7,20,50000000,4,3,South West,2.5,Lalitpur
+Thaiba,2053.5,20,50000000,3,3,South,2.5,Lalitpur
+Thali,752.95,12,16000000,5,3,East,2.5,Kathmandu
+Thali,900,10,9100000,3,2,West,2,Kathmandu
+Thamel,2012.43,8,55000000,6,4,South,3.5,Kathmandu
+Thankot,1026.75,23,13000000,6,2,West,3,Kathmandu
+Thankot,1026.75,22,13500000,7,2,West,3,Kathmandu
+Thankot,1026.75,13,14500000,2,3,South East,2.5,Kathmandu
+Thankot,1060.975,13,16500000,5,1,West,2,Kathmandu
+Thankot,1369,16,17500000,5,2,South,3,Kathmandu
+Thankot,1711.25,10,22000000,6,3,West,2.5,Kathmandu
+Thankot,1369,13,26000000,5,4,North east,2.5,Kathmandu
+Thankot,1711.25,20,27600000,4,3,East,3,Kathmandu
+Thankot,1882.37,10,30000000,8,3,South East,2.5,Kathmandu
+Thapagaun,1347.609375,20,36000000,7,4,North,3,Kathmandu
+Thapathali,2181.84375,10,9000000,6,3,East,3,Kathmandu
+Thapathali,1689.859375,14,40100000,5,2,East,2,Kathmandu
+Thapathali,2121.95,12,44500000,6,3,South,3,Kathmandu
+Thapathali,2395.75,14,60000000,5,4,East,2,Kathmandu
+Thasikhel,1882.375,10,23500000,6,5,East,2.5,Lalitpur
+Thasikhel,2121.95,13,35000000,3,4,South,2.5,Lalitpur
+Thecho,752.95,20,21000000,3,3,South East,2,Lalitpur
+Thecho,1369,10,26000000,4,3,South,2.5,Lalitpur
+Thecho,1813.925,12,27500000,7,5,East,3.5,Lalitpur
+Thecho,1369,13,32500000,5,5,North,2.5,Lalitpur
+Thulo bharyang,855.62,12,19900000,5,3,South West,2.5,Kathmandu
+Thulo Bharyang,1129.425,13,22000000,4,3,South East,2.5,Kathmandu
+Thulo Bharyang,1454.5625,12,22700000,5,2,West,3,Kathmandu
+Thulo Bharyang,1026.75,13,30000000,4,3,West,2.5,Kathmandu
+Thulo Bharyang,1197.875,13,32500000,5,4,South,3,Kathmandu
+Thulo Bharyang,2395.75,15,39000000,5,5,East,3,Kathmandu
+TIkathali,1133.703125,10,15000000,5,2,East,2.5,Lalitpur
+Tikathali,1026.75,10,16500000,6,3,South,3,Lalitpur
+Tikathali,1369,13,17000000,3,2,West,2,Lalitpur
+Tikathali,855.625,10,18500000,3,3,North East,3,Lalitpur
+Tikathali,1026.75,13,18500000,4,2,South,2.5,Lalitpur
+Tikathali,752.95,13,19500000,5,3,West,2.5,Lalitpur
+Tikathali,1112.3125,13,19500000,5,3,North,3,Lalitpur
+Tikathali,1561.515625,15,19500000,5,4,South East,2,Lalitpur
+Tikathali,941.1875,13,19900000,5,4,East,3,Lalitpur
+Tikathali,787.175,13,21500000,9,3,East,2.5,Lalitpur
+Tikathali,1369,20,21500000,6,4,West,2.5,Lalitpur
+Tikathali,600,12,22000000,6,4,South East,2.5,Lalitpur
+Tikathali,1026.75,13,22000000,6,5,South East,2.5,Lalitpur
+Tikathali,1112.3125,12,22500000,6,3,North,2.5,Lalitpur
+Tikathali,1197.875,12,22500000,6,3,East,3,Lalitpur
+Tikathali,1155.09,13,22500000,4,4,South,2.5,Lalitpur
+Tikathali,1069.53125,12,23000000,6,3,South,3,Lalitpur
+Tikathali,1197.875,12,23000000,6,4,South east,2.5,Lalitpur
+Tikathali,1026.75,13,23000000,4,3,South,2.5,Lalitpur
+Tikathali,1026.75,13,23000000,7,3,South,2.5,Lalitpur
+Tikathali,1026.75,13,23000000,4,4,East,2.5,Lalitpur
+Tikathali,1112.3125,13,23500000,5,4,South East,2.5,Lalitpur
+Tikathali,1112.3125,20,23500000,7,3,West,2.5,Lalitpur
+Tikathali,1026.75,13,24100000,7,3,North West,2.5,Lalitpur
+Tikathali,1197.875,16,24500000,6,5,East,2.5,Lalitpur
+Tikathali,1060.975,13,25000000,6,3,North,2.5,Lalitpur
+Tikathali,1133.7,13,25000000,4,4,East,2.5,Lalitpur
+Tikathali,1112.3125,13,25000000,6,3,South West,2.5,Lalitpur
+Tikathali,1112.3125,13,25000000,6,5,South,2.5,Lalitpur
+Tikathali,1197.875,13,25000000,3,3,South west,2.5,Lalitpur
+Tikathali,1026.75,16,25000000,6,5,East,2.5,Lalitpur
+Tikathali,1197.875,12,26000000,7,3,East,2.5,Lalitpur
+Tikathali,1403.225,13,27000000,7,4,North West,2.5,Lalitpur
+Tikathali,1095.2,13,29500000,5,5,East,2,Lalitpur
+Tikathali,1369,10,35000000,6,5,North East,3,Lalitpur
+Tikathali,1283.4375,13,37500000,5,4,South East,2.5,Lalitpur
+Tikathali,1882.37,12,26000000,5,3,West,2.5,Lalitpur
+Tinkune,3422.5,11,50000000,5,3,North,2,Kathmandu
+Tinkune,3422.5,14,60000000,6,3,East,2,Kathmandu
+Tinthana,1026.75,13,16000000,5,3,East,2.5,Kathmandu
+Tinthana,1500,16,32500000,8,4,East,3,Kathmandu
+Tinthana,1711.25,6.5,40000000,5,2,North,2,Kathmandu
+Tinthana,2762.29975,24,50000000,7,3,North West,3,Kathmandu
+Tokha,1112.3125,13,14200000,4,2,West,2,Kathmandu
+Tokha,1112.3125,12,17800000,5,6,South,3,Kathmandu
+Tokha,2930.515625,12,19000000,4,3,East,2,Kathmandu
+Tokha,1026.75,13,21000000,6,6,East,3,Kathmandu
+Tokha,1112.3125,13,22000000,5,5,East,3,Kathmandu
+Tokha,1369,13,23000000,6,5,East,3,Kathmandu
+Tokha,1283.4375,15,23500000,7,6,East,3,Kathmandu
+Tokha,1026.75,11,24000000,5,3,South,3,Kathmandu
+Tokha,1540.125,10,24500000,7,3,South East,3,Kathmandu
+Tokha,1112.3125,12,25000000,4,3,East,2,Kathmandu
+Tokha,1882.375,18,25000000,7,6,West,3,Kathmandu
+Tokha,1369,10,26000000,6,3,North East,2.5,Kathmandu
+Tokha,1112.3125,13,26000000,3,4,South West,3,Kathmandu
+Tokha,1026.75,14,26000000,3,4,South West,2.5,Kathmandu
+Tokha,1500,20,26000000,5,4,East,2.5,Kathmandu
+Tokha,1026.75,13,26500000,6,3,West,2.5,Kathmandu
+Tokha,1471.675,15,28000000,5,5,South,2.5,Kathmandu
+Tokha,1369,13,29000000,6,5,South,3,Kathmandu
+Tokha,1369,13,29500000,4,3,East,2,Kathmandu
+Tokha,1711.25,14,30000000,6,5,North,3,Kathmandu
+Tokha,1369,14,33500000,6,6,South East,3,Kathmandu
+Tokha,1369,13,37500000,6,4,East,3,Kathmandu
+Tokha,1411.78125,20,41000000,5,4,South East,3,Kathmandu
+Tokha,1779.7,12,45000000,5,3,North East,2.5,Kathmandu
+Tokha,2823.5625,15,53000000,6,4,West,3,Kathmandu
+Tokha,2806.45,18,70000000,5,6,West,2.5,Kathmandu
+Tokha,2909.125,18,70000000,5,7,North West,3,Kathmandu
+Town planning,1711.25,14,45000000,7,6,East,3.5,Kathmandu
+Tribhuwan Park,2053.5,20,32000000,5,4,East,2.5,Kathmandu
+Tushal,1711.25,15,29500000,5,4,East,2.5,Kathmandu
+Tyanglafat,1026.75,10,24500000,7,4,North East,2.5,Kathmandu
+Tyanglafat,2464.2,20,57000000,4,3,East,2.5,Kathmandu
+United colony,1882.375,13,35000000,5,4,South east,3,Lalitpur
+United colony,1882.375,13,35000000,5,4,West,3,Lalitpur
+Upper Pasikot,2481.31,22,51000000,5,6,South,3.5,Kathmandu
+Vinayak Colony,1471.675,20,51000000,4,3,West,2.5,Lalitpur
+Vinayak Colony,1471.675,20,51000000,4,2,West,2.5,Lalitpur
+Wasik,1779.7,14,37500000,5,4,South,3,Kathmandu
+Wasik,1779.7,13,41000000,5,4,South West,3,Kathmandu
+Wasik,3080.25,15,70000000,3,4,North,2.5,Kathmandu
